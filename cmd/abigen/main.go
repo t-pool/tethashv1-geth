@@ -24,8 +24,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/accounts/abi/bind"
-	"github.com/ethereum/go-ethereum/common/compiler"
+	"github.com/trustfarm-dev/tethashv1-geth/accounts/abi/bind"
+	"github.com/trustfarm-dev/tethashv1-geth/common/compiler"
 )
 
 var (

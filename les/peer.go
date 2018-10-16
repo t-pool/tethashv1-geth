@@ -24,13 +24,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/eth"
-	"github.com/ethereum/go-ethereum/les/flowcontrol"
-	"github.com/ethereum/go-ethereum/light"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/trustfarm-dev/tethashv1-geth/common"
+	"github.com/trustfarm-dev/tethashv1-geth/core/types"
+	"github.com/trustfarm-dev/tethashv1-geth/eth"
+	"github.com/trustfarm-dev/tethashv1-geth/les/flowcontrol"
+	"github.com/trustfarm-dev/tethashv1-geth/light"
+	"github.com/trustfarm-dev/tethashv1-geth/p2p"
+	"github.com/trustfarm-dev/tethashv1-geth/rlp"
 )
 
 var (

@@ -25,11 +25,11 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/core/vm"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/trustfarm-dev/tethashv1-geth/common"
+	"github.com/trustfarm-dev/tethashv1-geth/common/hexutil"
+	"github.com/trustfarm-dev/tethashv1-geth/core/vm"
+	"github.com/trustfarm-dev/tethashv1-geth/crypto"
+	"github.com/trustfarm-dev/tethashv1-geth/log"
 	duktape "gopkg.in/olebedev/go-duktape.v3"
 )
 

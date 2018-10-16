@@ -23,16 +23,16 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/contracts/ens"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/node"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/swarm/log"
-	"github.com/ethereum/go-ethereum/swarm/network"
-	"github.com/ethereum/go-ethereum/swarm/pss"
-	"github.com/ethereum/go-ethereum/swarm/services/swap"
-	"github.com/ethereum/go-ethereum/swarm/storage"
+	"github.com/trustfarm-dev/tethashv1-geth/common"
+	"github.com/trustfarm-dev/tethashv1-geth/contracts/ens"
+	"github.com/trustfarm-dev/tethashv1-geth/crypto"
+	"github.com/trustfarm-dev/tethashv1-geth/node"
+	"github.com/trustfarm-dev/tethashv1-geth/p2p/enode"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/log"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/network"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/pss"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/services/swap"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage"
 )
 
 const (

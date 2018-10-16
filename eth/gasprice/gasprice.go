@@ -22,11 +22,11 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/internal/ethapi"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/rpc"
+	"github.com/trustfarm-dev/tethashv1-geth/common"
+	"github.com/trustfarm-dev/tethashv1-geth/core/types"
+	"github.com/trustfarm-dev/tethashv1-geth/internal/ethapi"
+	"github.com/trustfarm-dev/tethashv1-geth/params"
+	"github.com/trustfarm-dev/tethashv1-geth/rpc"
 )
 
 var maxPrice = big.NewInt(500 * params.GWei)

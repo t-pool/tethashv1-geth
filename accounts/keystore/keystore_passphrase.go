@@ -38,9 +38,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/math"
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/trustfarm-dev/tethashv1-geth/common"
+	"github.com/trustfarm-dev/tethashv1-geth/common/math"
+	"github.com/trustfarm-dev/tethashv1-geth/crypto"
 	"github.com/pborman/uuid"
 	"golang.org/x/crypto/pbkdf2"
 	"golang.org/x/crypto/scrypt"

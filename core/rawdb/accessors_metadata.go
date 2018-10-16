@@ -19,10 +19,10 @@ package rawdb
 import (
 	"encoding/json"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/trustfarm-dev/tethashv1-geth/common"
+	"github.com/trustfarm-dev/tethashv1-geth/log"
+	"github.com/trustfarm-dev/tethashv1-geth/params"
+	"github.com/trustfarm-dev/tethashv1-geth/rlp"
 )
 
 // ReadDatabaseVersion retrieves the version number of the database.

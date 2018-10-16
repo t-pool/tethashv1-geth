@@ -24,8 +24,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/ethdb"
+	"github.com/trustfarm-dev/tethashv1-geth/common/mclock"
+	"github.com/trustfarm-dev/tethashv1-geth/ethdb"
 )
 
 func TestFreeClientPoolL10C100(t *testing.T) {

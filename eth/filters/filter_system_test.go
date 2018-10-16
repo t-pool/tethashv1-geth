@@ -25,17 +25,17 @@ import (
 	"testing"
 	"time"
 
-	ethereum "github.com/ethereum/go-ethereum"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/consensus/ethash"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/bloombits"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/event"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/rpc"
+	ethereum "github.com/trustfarm-dev/tethashv1-geth"
+	"github.com/trustfarm-dev/tethashv1-geth/common"
+	"github.com/trustfarm-dev/tethashv1-geth/consensus/ethash"
+	"github.com/trustfarm-dev/tethashv1-geth/core"
+	"github.com/trustfarm-dev/tethashv1-geth/core/bloombits"
+	"github.com/trustfarm-dev/tethashv1-geth/core/rawdb"
+	"github.com/trustfarm-dev/tethashv1-geth/core/types"
+	"github.com/trustfarm-dev/tethashv1-geth/ethdb"
+	"github.com/trustfarm-dev/tethashv1-geth/event"
+	"github.com/trustfarm-dev/tethashv1-geth/params"
+	"github.com/trustfarm-dev/tethashv1-geth/rpc"
 )
 
 type testBackend struct {

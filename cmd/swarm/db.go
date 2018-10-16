@@ -22,10 +22,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/swarm/storage"
+	"github.com/trustfarm-dev/tethashv1-geth/cmd/utils"
+	"github.com/trustfarm-dev/tethashv1-geth/common"
+	"github.com/trustfarm-dev/tethashv1-geth/log"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage"
 	"gopkg.in/urfave/cli.v1"
 )
 

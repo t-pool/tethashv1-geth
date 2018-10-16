@@ -35,11 +35,11 @@ import (
 	"io"
 
 	"github.com/elastic/gosigar"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/rpc"
+	"github.com/trustfarm-dev/tethashv1-geth/log"
+	"github.com/trustfarm-dev/tethashv1-geth/metrics"
+	"github.com/trustfarm-dev/tethashv1-geth/p2p"
+	"github.com/trustfarm-dev/tethashv1-geth/params"
+	"github.com/trustfarm-dev/tethashv1-geth/rpc"
 	"github.com/mohae/deepcopy"
 	"golang.org/x/net/websocket"
 )

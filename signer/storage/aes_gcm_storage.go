@@ -26,7 +26,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/trustfarm-dev/tethashv1-geth/log"
 )
 
 type storedCredential struct {

@@ -28,13 +28,13 @@ import (
 
 	"net"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/nat"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/trustfarm-dev/tethashv1-geth/common"
+	"github.com/trustfarm-dev/tethashv1-geth/common/hexutil"
+	"github.com/trustfarm-dev/tethashv1-geth/crypto"
+	"github.com/trustfarm-dev/tethashv1-geth/p2p"
+	"github.com/trustfarm-dev/tethashv1-geth/p2p/enode"
+	"github.com/trustfarm-dev/tethashv1-geth/p2p/nat"
+	"github.com/trustfarm-dev/tethashv1-geth/rlp"
 )
 
 var keys = []string{

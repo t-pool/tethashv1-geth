@@ -19,7 +19,7 @@
 package fetcher
 
 import (
-	"github.com/ethereum/go-ethereum/metrics"
+	"github.com/trustfarm-dev/tethashv1-geth/metrics"
 )
 
 var (

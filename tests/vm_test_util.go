@@ -22,15 +22,15 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/common/math"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/vm"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/ethdb"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/trustfarm-dev/tethashv1-geth/common"
+	"github.com/trustfarm-dev/tethashv1-geth/common/hexutil"
+	"github.com/trustfarm-dev/tethashv1-geth/common/math"
+	"github.com/trustfarm-dev/tethashv1-geth/core"
+	"github.com/trustfarm-dev/tethashv1-geth/core/state"
+	"github.com/trustfarm-dev/tethashv1-geth/core/vm"
+	"github.com/trustfarm-dev/tethashv1-geth/crypto"
+	"github.com/trustfarm-dev/tethashv1-geth/ethdb"
+	"github.com/trustfarm-dev/tethashv1-geth/params"
 )
 
 // VMTest checks EVM execution without block or transaction context.

@@ -27,12 +27,12 @@ import (
 
 	cli "gopkg.in/urfave/cli.v1"
 
-	"github.com/ethereum/go-ethereum/cmd/utils"
-	"github.com/ethereum/go-ethereum/dashboard"
-	"github.com/ethereum/go-ethereum/eth"
-	"github.com/ethereum/go-ethereum/node"
-	"github.com/ethereum/go-ethereum/params"
-	whisper "github.com/ethereum/go-ethereum/whisper/whisperv6"
+	"github.com/trustfarm-dev/tethashv1-geth/cmd/utils"
+	"github.com/trustfarm-dev/tethashv1-geth/dashboard"
+	"github.com/trustfarm-dev/tethashv1-geth/eth"
+	"github.com/trustfarm-dev/tethashv1-geth/node"
+	"github.com/trustfarm-dev/tethashv1-geth/params"
+	whisper "github.com/trustfarm-dev/tethashv1-geth/whisper/whisperv6"
 	"github.com/naoina/toml"
 )
 

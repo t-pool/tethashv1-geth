@@ -28,17 +28,17 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/hexutil"
-	"github.com/ethereum/go-ethereum/core"
-	"github.com/ethereum/go-ethereum/core/rawdb"
-	"github.com/ethereum/go-ethereum/core/state"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/internal/ethapi"
-	"github.com/ethereum/go-ethereum/params"
-	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/ethereum/go-ethereum/rpc"
-	"github.com/ethereum/go-ethereum/trie"
+	"github.com/trustfarm-dev/tethashv1-geth/common"
+	"github.com/trustfarm-dev/tethashv1-geth/common/hexutil"
+	"github.com/trustfarm-dev/tethashv1-geth/core"
+	"github.com/trustfarm-dev/tethashv1-geth/core/rawdb"
+	"github.com/trustfarm-dev/tethashv1-geth/core/state"
+	"github.com/trustfarm-dev/tethashv1-geth/core/types"
+	"github.com/trustfarm-dev/tethashv1-geth/internal/ethapi"
+	"github.com/trustfarm-dev/tethashv1-geth/params"
+	"github.com/trustfarm-dev/tethashv1-geth/rlp"
+	"github.com/trustfarm-dev/tethashv1-geth/rpc"
+	"github.com/trustfarm-dev/tethashv1-geth/trie"
 )
 
 // PublicEthereumAPI provides an API to access Ethereum full node-related

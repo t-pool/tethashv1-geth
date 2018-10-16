@@ -20,7 +20,7 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/trustfarm-dev/tethashv1-geth/common"
 )
 
 const Version = "1.0"

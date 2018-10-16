@@ -28,11 +28,11 @@
 //  	"context"
 //  	"fmt"
 //  	"os"
-//  	pss "github.com/ethereum/go-ethereum/swarm/pss/client"
-//  	"github.com/ethereum/go-ethereum/p2p/protocols"
-//  	"github.com/ethereum/go-ethereum/p2p"
-//  	"github.com/ethereum/go-ethereum/swarm/pot"
-//  	"github.com/ethereum/go-ethereum/swarm/log"
+//  	pss "github.com/trustfarm-dev/tethashv1-geth/swarm/pss/client"
+//  	"github.com/trustfarm-dev/tethashv1-geth/p2p/protocols"
+//  	"github.com/trustfarm-dev/tethashv1-geth/p2p"
+//  	"github.com/trustfarm-dev/tethashv1-geth/swarm/pot"
+//  	"github.com/trustfarm-dev/tethashv1-geth/swarm/log"
 //  )
 //
 //  type FooMsg struct {

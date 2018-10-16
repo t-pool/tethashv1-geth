@@ -34,8 +34,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/swarm/api"
-	"github.com/ethereum/go-ethereum/swarm/storage/feed"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/api"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage/feed"
 )
 
 var (

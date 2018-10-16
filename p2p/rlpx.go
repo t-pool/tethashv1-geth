@@ -35,12 +35,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common/bitutil"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/crypto/ecies"
-	"github.com/ethereum/go-ethereum/crypto/secp256k1"
-	"github.com/ethereum/go-ethereum/crypto/sha3"
-	"github.com/ethereum/go-ethereum/rlp"
+	"github.com/trustfarm-dev/tethashv1-geth/common/bitutil"
+	"github.com/trustfarm-dev/tethashv1-geth/crypto"
+	"github.com/trustfarm-dev/tethashv1-geth/crypto/ecies"
+	"github.com/trustfarm-dev/tethashv1-geth/crypto/secp256k1"
+	"github.com/trustfarm-dev/tethashv1-geth/crypto/sha3"
+	"github.com/trustfarm-dev/tethashv1-geth/rlp"
 	"github.com/golang/snappy"
 )
 

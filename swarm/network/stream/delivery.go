@@ -22,12 +22,12 @@ import (
 
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/metrics"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/swarm/log"
-	"github.com/ethereum/go-ethereum/swarm/network"
-	"github.com/ethereum/go-ethereum/swarm/spancontext"
-	"github.com/ethereum/go-ethereum/swarm/storage"
+	"github.com/trustfarm-dev/tethashv1-geth/metrics"
+	"github.com/trustfarm-dev/tethashv1-geth/p2p/enode"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/log"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/network"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/spancontext"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage"
 	opentracing "github.com/opentracing/opentracing-go"
 )
 

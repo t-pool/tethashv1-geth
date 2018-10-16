@@ -24,7 +24,7 @@ import (
 	"os/exec"
 	"runtime"
 
-	"github.com/ethereum/go-ethereum/swarm/log"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/log"
 )
 
 func externalUnmount(mountPoint string) error {

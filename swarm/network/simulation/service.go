@@ -17,9 +17,9 @@
 package simulation
 
 import (
-	"github.com/ethereum/go-ethereum/node"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/simulations/adapters"
+	"github.com/trustfarm-dev/tethashv1-geth/node"
+	"github.com/trustfarm-dev/tethashv1-geth/p2p/enode"
+	"github.com/trustfarm-dev/tethashv1-geth/p2p/simulations/adapters"
 )
 
 // Service returns a single Service by name on a particular node

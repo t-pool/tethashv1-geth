@@ -25,7 +25,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/crypto/sha3"
+	"github.com/trustfarm-dev/tethashv1-geth/crypto/sha3"
 )
 
 /*

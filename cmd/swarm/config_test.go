@@ -26,9 +26,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/rpc"
-	"github.com/ethereum/go-ethereum/swarm"
-	"github.com/ethereum/go-ethereum/swarm/api"
+	"github.com/trustfarm-dev/tethashv1-geth/rpc"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/api"
 
 	"github.com/docker/docker/pkg/reexec"
 )

@@ -32,14 +32,14 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/node"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/simulations"
-	"github.com/ethereum/go-ethereum/p2p/simulations/adapters"
-	"github.com/ethereum/go-ethereum/rlp"
-	"github.com/ethereum/go-ethereum/rpc"
+	"github.com/trustfarm-dev/tethashv1-geth/log"
+	"github.com/trustfarm-dev/tethashv1-geth/node"
+	"github.com/trustfarm-dev/tethashv1-geth/p2p"
+	"github.com/trustfarm-dev/tethashv1-geth/p2p/enode"
+	"github.com/trustfarm-dev/tethashv1-geth/p2p/simulations"
+	"github.com/trustfarm-dev/tethashv1-geth/p2p/simulations/adapters"
+	"github.com/trustfarm-dev/tethashv1-geth/rlp"
+	"github.com/trustfarm-dev/tethashv1-geth/rpc"
 )
 
 // ProtocolTester is the tester environment used for unit testing protocol

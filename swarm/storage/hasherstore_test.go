@@ -21,9 +21,9 @@ import (
 	"context"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/swarm/storage/encryption"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage/encryption"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/trustfarm-dev/tethashv1-geth/common"
 )
 
 func TestHasherStore(t *testing.T) {

@@ -22,9 +22,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/accounts"
-	"github.com/ethereum/go-ethereum/event"
-	"github.com/ethereum/go-ethereum/log"
+	"github.com/trustfarm-dev/tethashv1-geth/accounts"
+	"github.com/trustfarm-dev/tethashv1-geth/event"
+	"github.com/trustfarm-dev/tethashv1-geth/log"
 	"github.com/karalabe/hid"
 )
 

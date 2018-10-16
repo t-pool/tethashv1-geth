@@ -23,14 +23,14 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/node"
-	"github.com/ethereum/go-ethereum/p2p/enode"
-	"github.com/ethereum/go-ethereum/p2p/simulations/adapters"
-	"github.com/ethereum/go-ethereum/swarm/log"
-	"github.com/ethereum/go-ethereum/swarm/network"
-	"github.com/ethereum/go-ethereum/swarm/network/simulation"
-	"github.com/ethereum/go-ethereum/swarm/state"
-	"github.com/ethereum/go-ethereum/swarm/storage"
+	"github.com/trustfarm-dev/tethashv1-geth/node"
+	"github.com/trustfarm-dev/tethashv1-geth/p2p/enode"
+	"github.com/trustfarm-dev/tethashv1-geth/p2p/simulations/adapters"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/log"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/network"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/network/simulation"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/state"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage"
 )
 
 //constants for random file generation

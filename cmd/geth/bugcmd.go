@@ -26,10 +26,10 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/cmd/internal/browser"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/trustfarm-dev/tethashv1-geth/cmd/internal/browser"
+	"github.com/trustfarm-dev/tethashv1-geth/params"
 
-	"github.com/ethereum/go-ethereum/cmd/utils"
+	"github.com/trustfarm-dev/tethashv1-geth/cmd/utils"
 	cli "gopkg.in/urfave/cli.v1"
 )
 

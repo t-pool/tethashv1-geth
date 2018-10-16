@@ -25,9 +25,9 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/swarm/storage"
-	"github.com/ethereum/go-ethereum/swarm/storage/mock"
+	"github.com/trustfarm-dev/tethashv1-geth/common"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage/mock"
 )
 
 // MockStore creates NodeStore instances from provided GlobalStorer,

@@ -22,8 +22,8 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/ethereum/go-ethereum/accounts/abi"
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/trustfarm-dev/tethashv1-geth/accounts/abi"
+	"github.com/trustfarm-dev/tethashv1-geth/common"
 
 	"bytes"
 	"os"

@@ -21,7 +21,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/trustfarm-dev/tethashv1-geth/common"
 )
 
 // precompiledTest defines the input/output pairs for precompiled contract tests.

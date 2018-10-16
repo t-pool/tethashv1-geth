@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ethereum/go-ethereum/cmd/utils"
+	"github.com/trustfarm-dev/tethashv1-geth/cmd/utils"
 	"gopkg.in/urfave/cli.v1"
 )
 

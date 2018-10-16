@@ -38,18 +38,18 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ethereum/go-ethereum/swarm/storage/feed/lookup"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage/feed/lookup"
 
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/core/types"
-	"github.com/ethereum/go-ethereum/crypto"
-	"github.com/ethereum/go-ethereum/log"
-	"github.com/ethereum/go-ethereum/swarm/api"
-	swarm "github.com/ethereum/go-ethereum/swarm/api/client"
-	"github.com/ethereum/go-ethereum/swarm/multihash"
-	"github.com/ethereum/go-ethereum/swarm/storage"
-	"github.com/ethereum/go-ethereum/swarm/storage/feed"
-	"github.com/ethereum/go-ethereum/swarm/testutil"
+	"github.com/trustfarm-dev/tethashv1-geth/common"
+	"github.com/trustfarm-dev/tethashv1-geth/core/types"
+	"github.com/trustfarm-dev/tethashv1-geth/crypto"
+	"github.com/trustfarm-dev/tethashv1-geth/log"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/api"
+	swarm "github.com/trustfarm-dev/tethashv1-geth/swarm/api/client"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/multihash"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage/feed"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/testutil"
 )
 
 func init() {

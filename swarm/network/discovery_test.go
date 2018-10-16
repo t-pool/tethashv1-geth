@@ -19,7 +19,7 @@ package network
 import (
 	"testing"
 
-	p2ptest "github.com/ethereum/go-ethereum/p2p/testing"
+	p2ptest "github.com/trustfarm-dev/tethashv1-geth/p2p/testing"
 )
 
 /***

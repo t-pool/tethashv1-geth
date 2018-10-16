@@ -26,8 +26,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common/mclock"
-	"github.com/ethereum/go-ethereum/light"
+	"github.com/trustfarm-dev/tethashv1-geth/common/mclock"
+	"github.com/trustfarm-dev/tethashv1-geth/light"
 )
 
 var (

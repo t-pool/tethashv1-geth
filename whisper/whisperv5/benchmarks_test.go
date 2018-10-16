@@ -19,7 +19,7 @@ package whisperv5
 import (
 	"testing"
 
-	"github.com/ethereum/go-ethereum/crypto"
+	"github.com/trustfarm-dev/tethashv1-geth/crypto"
 )
 
 func BenchmarkDeriveKeyMaterial(b *testing.B) {

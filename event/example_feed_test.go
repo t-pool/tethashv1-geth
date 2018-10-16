@@ -19,7 +19,7 @@ package event_test
 import (
 	"fmt"
 
-	"github.com/ethereum/go-ethereum/event"
+	"github.com/trustfarm-dev/tethashv1-geth/event"
 )
 
 func ExampleFeed_acknowledgedEvents() {

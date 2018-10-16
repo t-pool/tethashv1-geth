@@ -17,7 +17,7 @@
 package api
 
 import (
-	"github.com/ethereum/go-ethereum/swarm/network"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/network"
 )
 
 type Control struct {

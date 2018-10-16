@@ -17,9 +17,9 @@
 package vm
 
 import (
-	"github.com/ethereum/go-ethereum/common"
-	"github.com/ethereum/go-ethereum/common/math"
-	"github.com/ethereum/go-ethereum/params"
+	"github.com/trustfarm-dev/tethashv1-geth/common"
+	"github.com/trustfarm-dev/tethashv1-geth/common/math"
+	"github.com/trustfarm-dev/tethashv1-geth/params"
 )
 
 // memoryGasCosts calculates the quadratic gas for memory expansion. It does so

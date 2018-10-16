@@ -20,7 +20,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/common/math"
+	"github.com/trustfarm-dev/tethashv1-geth/common/math"
 )
 
 func TestBlockNumberJSONUnmarshal(t *testing.T) {

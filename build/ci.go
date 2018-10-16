@@ -58,9 +58,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ethereum/go-ethereum/internal/build"
-	"github.com/ethereum/go-ethereum/params"
-	sv "github.com/ethereum/go-ethereum/swarm/version"
+	"github.com/trustfarm-dev/tethashv1-geth/internal/build"
+	"github.com/trustfarm-dev/tethashv1-geth/params"
+	sv "github.com/trustfarm-dev/tethashv1-geth/swarm/version"
 )
 
 var (

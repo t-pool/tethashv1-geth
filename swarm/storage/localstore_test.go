@@ -22,7 +22,7 @@ import (
 	"os"
 	"testing"
 
-	ch "github.com/ethereum/go-ethereum/swarm/chunk"
+	ch "github.com/trustfarm-dev/tethashv1-geth/swarm/chunk"
 )
 
 var (

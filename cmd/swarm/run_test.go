@@ -33,16 +33,16 @@ import (
 	"time"
 
 	"github.com/docker/docker/pkg/reexec"
-	"github.com/ethereum/go-ethereum/accounts"
-	"github.com/ethereum/go-ethereum/accounts/keystore"
-	"github.com/ethereum/go-ethereum/internal/cmdtest"
-	"github.com/ethereum/go-ethereum/node"
-	"github.com/ethereum/go-ethereum/p2p"
-	"github.com/ethereum/go-ethereum/rpc"
-	"github.com/ethereum/go-ethereum/swarm"
-	"github.com/ethereum/go-ethereum/swarm/api"
-	swarmhttp "github.com/ethereum/go-ethereum/swarm/api/http"
-	"github.com/ethereum/go-ethereum/swarm/testutil"
+	"github.com/trustfarm-dev/tethashv1-geth/accounts"
+	"github.com/trustfarm-dev/tethashv1-geth/accounts/keystore"
+	"github.com/trustfarm-dev/tethashv1-geth/internal/cmdtest"
+	"github.com/trustfarm-dev/tethashv1-geth/node"
+	"github.com/trustfarm-dev/tethashv1-geth/p2p"
+	"github.com/trustfarm-dev/tethashv1-geth/rpc"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/api"
+	swarmhttp "github.com/trustfarm-dev/tethashv1-geth/swarm/api/http"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/testutil"
 )
 
 var loglevel = flag.Int("loglevel", 3, "verbosity of logs")

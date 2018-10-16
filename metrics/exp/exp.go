@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/ethereum/go-ethereum/metrics"
+	"github.com/trustfarm-dev/tethashv1-geth/metrics"
 )
 
 type exp struct {

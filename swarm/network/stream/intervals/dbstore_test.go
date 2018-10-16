@@ -21,7 +21,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/ethereum/go-ethereum/swarm/state"
+	"github.com/trustfarm-dev/tethashv1-geth/swarm/state"
 )
 
 // TestDBStore tests basic functionality of DBStore.
