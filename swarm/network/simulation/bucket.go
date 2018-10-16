@@ -16,7 +16,7 @@
 
 package simulation
 
-import "github.com/trustfarm-dev/tethashv1-geth/p2p/enode"
+import "github.com/tao-foundation/tethashv1-geth/p2p/enode"
 
 // BucketKey is the type that should be used for keys in simulation buckets.
 type BucketKey string

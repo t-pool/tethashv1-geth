@@ -27,7 +27,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common/math"
+	"github.com/tao-foundation/tethashv1-geth/common/math"
 	"gopkg.in/urfave/cli.v1"
 )
 

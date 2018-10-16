@@ -34,10 +34,10 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/enode"
-	"github.com/trustfarm-dev/tethashv1-geth/rlp"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
+	"github.com/tao-foundation/tethashv1-geth/p2p/enode"
+	"github.com/tao-foundation/tethashv1-geth/rlp"
 )
 
 func init() {

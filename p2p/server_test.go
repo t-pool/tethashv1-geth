@@ -25,11 +25,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto/sha3"
-	"github.com/trustfarm-dev/tethashv1-geth/log"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/enode"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/enr"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
+	"github.com/tao-foundation/tethashv1-geth/crypto/sha3"
+	"github.com/tao-foundation/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/p2p/enode"
+	"github.com/tao-foundation/tethashv1-geth/p2p/enr"
 )
 
 // func init() {

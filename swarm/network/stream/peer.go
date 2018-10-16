@@ -23,14 +23,14 @@ import (
 	"sync"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/metrics"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/protocols"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/log"
-	pq "github.com/trustfarm-dev/tethashv1-geth/swarm/network/priorityqueue"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/network/stream/intervals"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/spancontext"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/state"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage"
+	"github.com/tao-foundation/tethashv1-geth/metrics"
+	"github.com/tao-foundation/tethashv1-geth/p2p/protocols"
+	"github.com/tao-foundation/tethashv1-geth/swarm/log"
+	pq "github.com/tao-foundation/tethashv1-geth/swarm/network/priorityqueue"
+	"github.com/tao-foundation/tethashv1-geth/swarm/network/stream/intervals"
+	"github.com/tao-foundation/tethashv1-geth/swarm/spancontext"
+	"github.com/tao-foundation/tethashv1-geth/swarm/state"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage"
 	opentracing "github.com/opentracing/opentracing-go"
 )
 

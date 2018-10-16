@@ -26,11 +26,11 @@ import (
 	"strconv"
 
 	"github.com/docker/docker/pkg/reexec"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
-	"github.com/trustfarm-dev/tethashv1-geth/node"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/enode"
-	"github.com/trustfarm-dev/tethashv1-geth/rpc"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
+	"github.com/tao-foundation/tethashv1-geth/node"
+	"github.com/tao-foundation/tethashv1-geth/p2p"
+	"github.com/tao-foundation/tethashv1-geth/p2p/enode"
+	"github.com/tao-foundation/tethashv1-geth/rpc"
 )
 
 // Node represents a node in a simulation network which is created by a

@@ -28,9 +28,9 @@ import (
 	"time"
 
 	mapset "github.com/deckarep/golang-set"
-	"github.com/trustfarm-dev/tethashv1-geth/accounts"
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/accounts"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/log"
 )
 
 // Minimum amount of time between cache reloads. This limit applies if the platform does

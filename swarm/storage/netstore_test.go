@@ -25,9 +25,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/enode"
-	ch "github.com/trustfarm-dev/tethashv1-geth/swarm/chunk"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/p2p/enode"
+	ch "github.com/tao-foundation/tethashv1-geth/swarm/chunk"
 )
 
 var sourcePeerID = enode.HexID("99d8594b52298567d2ca3f4c441a5ba0140ee9245e26460d01102a52773c73b9")

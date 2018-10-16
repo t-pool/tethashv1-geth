@@ -19,11 +19,11 @@ package node
 import (
 	"reflect"
 
-	"github.com/trustfarm-dev/tethashv1-geth/accounts"
-	"github.com/trustfarm-dev/tethashv1-geth/ethdb"
-	"github.com/trustfarm-dev/tethashv1-geth/event"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p"
-	"github.com/trustfarm-dev/tethashv1-geth/rpc"
+	"github.com/tao-foundation/tethashv1-geth/accounts"
+	"github.com/tao-foundation/tethashv1-geth/ethdb"
+	"github.com/tao-foundation/tethashv1-geth/event"
+	"github.com/tao-foundation/tethashv1-geth/p2p"
+	"github.com/tao-foundation/tethashv1-geth/rpc"
 )
 
 // ServiceContext is a collection of service independent options inherited from

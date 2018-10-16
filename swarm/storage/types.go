@@ -27,10 +27,10 @@ import (
 	"io"
 	"io/ioutil"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto/sha3"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/bmt"
-	ch "github.com/trustfarm-dev/tethashv1-geth/swarm/chunk"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/crypto/sha3"
+	"github.com/tao-foundation/tethashv1-geth/swarm/bmt"
+	ch "github.com/tao-foundation/tethashv1-geth/swarm/chunk"
 )
 
 const MaxPO = 16

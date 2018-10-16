@@ -25,16 +25,16 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/common/hexutil"
-	"github.com/trustfarm-dev/tethashv1-geth/common/math"
-	"github.com/trustfarm-dev/tethashv1-geth/core/rawdb"
-	"github.com/trustfarm-dev/tethashv1-geth/core/state"
-	"github.com/trustfarm-dev/tethashv1-geth/core/types"
-	"github.com/trustfarm-dev/tethashv1-geth/ethdb"
-	"github.com/trustfarm-dev/tethashv1-geth/log"
-	"github.com/trustfarm-dev/tethashv1-geth/params"
-	"github.com/trustfarm-dev/tethashv1-geth/rlp"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/common/hexutil"
+	"github.com/tao-foundation/tethashv1-geth/common/math"
+	"github.com/tao-foundation/tethashv1-geth/core/rawdb"
+	"github.com/tao-foundation/tethashv1-geth/core/state"
+	"github.com/tao-foundation/tethashv1-geth/core/types"
+	"github.com/tao-foundation/tethashv1-geth/ethdb"
+	"github.com/tao-foundation/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/params"
+	"github.com/tao-foundation/tethashv1-geth/rlp"
 )
 
 //go:generate gencodec -type Genesis -field-override genesisSpecMarshaling -out gen_genesis.go

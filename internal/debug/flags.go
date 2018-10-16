@@ -24,9 +24,9 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/trustfarm-dev/tethashv1-geth/log"
-	"github.com/trustfarm-dev/tethashv1-geth/metrics"
-	"github.com/trustfarm-dev/tethashv1-geth/metrics/exp"
+	"github.com/tao-foundation/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/metrics"
+	"github.com/tao-foundation/tethashv1-geth/metrics/exp"
 	"github.com/fjl/memsize/memsizeui"
 	colorable "github.com/mattn/go-colorable"
 	"github.com/mattn/go-isatty"

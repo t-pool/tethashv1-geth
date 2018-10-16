@@ -21,11 +21,11 @@ import (
 
 	"encoding/json"
 
-	"github.com/trustfarm-dev/tethashv1-geth/accounts"
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/common/hexutil"
-	"github.com/trustfarm-dev/tethashv1-geth/internal/ethapi"
-	"github.com/trustfarm-dev/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/accounts"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/common/hexutil"
+	"github.com/tao-foundation/tethashv1-geth/internal/ethapi"
+	"github.com/tao-foundation/tethashv1-geth/log"
 )
 
 type AuditLogger struct {

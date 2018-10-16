@@ -29,8 +29,8 @@ import (
 
 	"github.com/cespare/cp"
 	"github.com/davecgh/go-spew/spew"
-	"github.com/trustfarm-dev/tethashv1-geth/accounts"
-	"github.com/trustfarm-dev/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/accounts"
+	"github.com/tao-foundation/tethashv1-geth/common"
 )
 
 var (

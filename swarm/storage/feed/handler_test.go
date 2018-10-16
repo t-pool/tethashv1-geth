@@ -26,12 +26,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
 
-	"github.com/trustfarm-dev/tethashv1-geth/log"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/chunk"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage/feed/lookup"
+	"github.com/tao-foundation/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/swarm/chunk"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage/feed/lookup"
 )
 
 var (

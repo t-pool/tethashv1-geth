@@ -19,7 +19,7 @@ package core
 import (
 	"runtime"
 
-	"github.com/trustfarm-dev/tethashv1-geth/core/types"
+	"github.com/tao-foundation/tethashv1-geth/core/types"
 )
 
 // senderCacher is a concurrent transaction sender recoverer anc cacher.

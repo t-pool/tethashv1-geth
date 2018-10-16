@@ -20,7 +20,7 @@ package storage
 // no need for queueing/caching
 
 import (
-	"github.com/trustfarm-dev/tethashv1-geth/metrics"
+	"github.com/tao-foundation/tethashv1-geth/metrics"
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/iterator"
 	"github.com/syndtr/goleveldb/leveldb/opt"

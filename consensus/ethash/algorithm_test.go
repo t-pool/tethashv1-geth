@@ -26,9 +26,9 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/common/hexutil"
-	"github.com/trustfarm-dev/tethashv1-geth/core/types"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/common/hexutil"
+	"github.com/tao-foundation/tethashv1-geth/core/types"
 )
 
 // prepare converts an ethash cache or dataset from a byte stream into the internal

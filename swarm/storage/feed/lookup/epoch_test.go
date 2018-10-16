@@ -3,7 +3,7 @@ package lookup_test
 import (
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage/feed/lookup"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage/feed/lookup"
 )
 
 func TestMarshallers(t *testing.T) {

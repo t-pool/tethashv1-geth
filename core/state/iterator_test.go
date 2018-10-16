@@ -20,8 +20,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/ethdb"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/ethdb"
 )
 
 // Tests that the node iterator indeed walks over the entire database contents.

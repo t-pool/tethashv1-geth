@@ -22,13 +22,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/core/rawdb"
-	"github.com/trustfarm-dev/tethashv1-geth/core/state"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto/sha3"
-	"github.com/trustfarm-dev/tethashv1-geth/ethdb"
-	"github.com/trustfarm-dev/tethashv1-geth/log"
-	"github.com/trustfarm-dev/tethashv1-geth/trie"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/core/rawdb"
+	"github.com/tao-foundation/tethashv1-geth/core/state"
+	"github.com/tao-foundation/tethashv1-geth/crypto/sha3"
+	"github.com/tao-foundation/tethashv1-geth/ethdb"
+	"github.com/tao-foundation/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/trie"
 )
 
 // stateReq represents a batch of state fetch requests grouped together into

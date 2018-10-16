@@ -23,10 +23,10 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/trustfarm-dev/tethashv1-geth/core/state"
-	"github.com/trustfarm-dev/tethashv1-geth/core/vm"
-	"github.com/trustfarm-dev/tethashv1-geth/log"
-	"github.com/trustfarm-dev/tethashv1-geth/tests"
+	"github.com/tao-foundation/tethashv1-geth/core/state"
+	"github.com/tao-foundation/tethashv1-geth/core/vm"
+	"github.com/tao-foundation/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/tests"
 
 	cli "gopkg.in/urfave/cli.v1"
 )

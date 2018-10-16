@@ -7,8 +7,8 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/common/math"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/common/math"
 )
 
 var _ = (*stEnvMarshaling)(nil)

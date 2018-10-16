@@ -19,8 +19,8 @@ package p2p
 import (
 	"fmt"
 
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/enode"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/enr"
+	"github.com/tao-foundation/tethashv1-geth/p2p/enode"
+	"github.com/tao-foundation/tethashv1-geth/p2p/enr"
 )
 
 // Protocol represents a P2P subprotocol implementation.

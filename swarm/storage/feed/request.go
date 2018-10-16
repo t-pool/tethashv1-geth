@@ -21,10 +21,10 @@ import (
 	"encoding/json"
 	"hash"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/common/hexutil"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage/feed/lookup"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/common/hexutil"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage/feed/lookup"
 )
 
 // Request represents a request to sign or signed feed update message

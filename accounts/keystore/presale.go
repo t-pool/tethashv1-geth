@@ -25,8 +25,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/trustfarm-dev/tethashv1-geth/accounts"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
+	"github.com/tao-foundation/tethashv1-geth/accounts"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
 	"github.com/pborman/uuid"
 	"golang.org/x/crypto/pbkdf2"
 )

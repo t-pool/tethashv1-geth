@@ -23,17 +23,17 @@ import (
 	"sync"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/metrics"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/enode"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/protocols"
-	"github.com/trustfarm-dev/tethashv1-geth/rpc"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/log"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/network"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/network/stream/intervals"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/pot"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/state"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage"
+	"github.com/tao-foundation/tethashv1-geth/metrics"
+	"github.com/tao-foundation/tethashv1-geth/p2p"
+	"github.com/tao-foundation/tethashv1-geth/p2p/enode"
+	"github.com/tao-foundation/tethashv1-geth/p2p/protocols"
+	"github.com/tao-foundation/tethashv1-geth/rpc"
+	"github.com/tao-foundation/tethashv1-geth/swarm/log"
+	"github.com/tao-foundation/tethashv1-geth/swarm/network"
+	"github.com/tao-foundation/tethashv1-geth/swarm/network/stream/intervals"
+	"github.com/tao-foundation/tethashv1-geth/swarm/pot"
+	"github.com/tao-foundation/tethashv1-geth/swarm/state"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage"
 )
 
 const (

@@ -19,8 +19,8 @@
 package whisperv6
 
 import (
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/common/hexutil"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/common/hexutil"
 )
 
 // TopicType represents a cryptographically secure, probabilistic partial

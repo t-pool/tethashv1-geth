@@ -26,11 +26,11 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/common/math"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto/ecies"
-	"github.com/trustfarm-dev/tethashv1-geth/rlp"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/common/math"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
+	"github.com/tao-foundation/tethashv1-geth/crypto/ecies"
+	"github.com/tao-foundation/tethashv1-geth/rlp"
 )
 
 // Envelope represents a clear-text data packet to transmit through the Whisper

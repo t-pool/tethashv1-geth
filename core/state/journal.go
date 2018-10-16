@@ -19,7 +19,7 @@ package state
 import (
 	"math/big"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/common"
 )
 
 // journalEntry is a modification entry in the state change journal that can be

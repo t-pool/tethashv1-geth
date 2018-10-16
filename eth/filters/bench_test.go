@@ -23,14 +23,14 @@ import (
 	"testing"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/common/bitutil"
-	"github.com/trustfarm-dev/tethashv1-geth/core/bloombits"
-	"github.com/trustfarm-dev/tethashv1-geth/core/rawdb"
-	"github.com/trustfarm-dev/tethashv1-geth/core/types"
-	"github.com/trustfarm-dev/tethashv1-geth/ethdb"
-	"github.com/trustfarm-dev/tethashv1-geth/event"
-	"github.com/trustfarm-dev/tethashv1-geth/node"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/common/bitutil"
+	"github.com/tao-foundation/tethashv1-geth/core/bloombits"
+	"github.com/tao-foundation/tethashv1-geth/core/rawdb"
+	"github.com/tao-foundation/tethashv1-geth/core/types"
+	"github.com/tao-foundation/tethashv1-geth/ethdb"
+	"github.com/tao-foundation/tethashv1-geth/event"
+	"github.com/tao-foundation/tethashv1-geth/node"
 )
 
 func BenchmarkBloomBits512(b *testing.B) {

@@ -5,8 +5,8 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/trustfarm-dev/tethashv1-geth/accounts/keystore"
-	"github.com/trustfarm-dev/tethashv1-geth/cmd/utils"
+	"github.com/tao-foundation/tethashv1-geth/accounts/keystore"
+	"github.com/tao-foundation/tethashv1-geth/cmd/utils"
 	"gopkg.in/urfave/cli.v1"
 )
 

@@ -22,7 +22,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/log"
+	"github.com/tao-foundation/tethashv1-geth/swarm/log"
 )
 
 // SwAP Swarm Accounting Protocol with

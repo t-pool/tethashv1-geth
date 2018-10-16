@@ -28,14 +28,14 @@ import (
 	"testing"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
-	"github.com/trustfarm-dev/tethashv1-geth/log"
-	"github.com/trustfarm-dev/tethashv1-geth/node"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/enode"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/simulations/adapters"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/api"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/network/simulation"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
+	"github.com/tao-foundation/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/node"
+	"github.com/tao-foundation/tethashv1-geth/p2p/enode"
+	"github.com/tao-foundation/tethashv1-geth/p2p/simulations/adapters"
+	"github.com/tao-foundation/tethashv1-geth/swarm/api"
+	"github.com/tao-foundation/tethashv1-geth/swarm/network/simulation"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage"
 	colorable "github.com/mattn/go-colorable"
 )
 

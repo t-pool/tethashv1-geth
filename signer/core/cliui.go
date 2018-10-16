@@ -25,9 +25,9 @@ import (
 	"sync"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/trustfarm-dev/tethashv1-geth/common/hexutil"
-	"github.com/trustfarm-dev/tethashv1-geth/internal/ethapi"
-	"github.com/trustfarm-dev/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/common/hexutil"
+	"github.com/tao-foundation/tethashv1-geth/internal/ethapi"
+	"github.com/tao-foundation/tethashv1-geth/log"
 	"golang.org/x/crypto/ssh/terminal"
 )
 

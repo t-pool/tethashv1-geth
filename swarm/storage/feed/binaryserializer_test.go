@@ -21,7 +21,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common/hexutil"
+	"github.com/tao-foundation/tethashv1-geth/common/hexutil"
 )
 
 // KV mocks a key value store

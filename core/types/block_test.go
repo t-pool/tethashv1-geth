@@ -23,8 +23,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/rlp"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/rlp"
 )
 
 // from bcValidBlockTest.json, "SimpleTx"

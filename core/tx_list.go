@@ -22,9 +22,9 @@ import (
 	"math/big"
 	"sort"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/core/types"
-	"github.com/trustfarm-dev/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/core/types"
+	"github.com/tao-foundation/tethashv1-geth/log"
 )
 
 // nonceHeap is a heap.Interface implementation over 64bit unsigned integers for

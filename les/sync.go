@@ -20,9 +20,9 @@ import (
 	"context"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/core/rawdb"
-	"github.com/trustfarm-dev/tethashv1-geth/eth/downloader"
-	"github.com/trustfarm-dev/tethashv1-geth/light"
+	"github.com/tao-foundation/tethashv1-geth/core/rawdb"
+	"github.com/tao-foundation/tethashv1-geth/eth/downloader"
+	"github.com/tao-foundation/tethashv1-geth/light"
 )
 
 // syncer is responsible for periodically synchronising with the network, both

@@ -24,8 +24,8 @@ import (
 
 	"strings"
 
-	"github.com/trustfarm-dev/tethashv1-geth/cmd/utils"
-	"github.com/trustfarm-dev/tethashv1-geth/internal/debug"
+	"github.com/tao-foundation/tethashv1-geth/cmd/utils"
+	"github.com/tao-foundation/tethashv1-geth/internal/debug"
 	"gopkg.in/urfave/cli.v1"
 )
 

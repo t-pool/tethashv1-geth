@@ -23,10 +23,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/core/types"
-	"github.com/trustfarm-dev/tethashv1-geth/rlp"
-	whisper "github.com/trustfarm-dev/tethashv1-geth/whisper/whisperv6"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/core/types"
+	"github.com/tao-foundation/tethashv1-geth/rlp"
+	whisper "github.com/tao-foundation/tethashv1-geth/whisper/whisperv6"
 )
 
 // A Nonce is a 64-bit hash which proves (combined with the mix-hash) that

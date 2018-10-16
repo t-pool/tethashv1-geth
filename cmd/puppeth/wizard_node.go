@@ -21,9 +21,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/accounts/keystore"
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/accounts/keystore"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/log"
 )
 
 // deployNode creates a new node configuration based on some user input.

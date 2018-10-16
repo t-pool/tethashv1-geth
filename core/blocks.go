@@ -16,7 +16,7 @@
 
 package core
 
-import "github.com/trustfarm-dev/tethashv1-geth/common"
+import "github.com/tao-foundation/tethashv1-geth/common"
 
 // BadHashes represent a set of manually tracked bad hashes (usually hard forks)
 var BadHashes = map[common.Hash]bool{

@@ -27,10 +27,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	ch "github.com/trustfarm-dev/tethashv1-geth/swarm/chunk"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/log"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage/mock/mem"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	ch "github.com/tao-foundation/tethashv1-geth/swarm/chunk"
+	"github.com/tao-foundation/tethashv1-geth/swarm/log"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage/mock/mem"
 
 	ldberrors "github.com/syndtr/goleveldb/leveldb/errors"
 )

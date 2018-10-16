@@ -34,8 +34,8 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/trustfarm-dev/tethashv1-geth/core"
-	"github.com/trustfarm-dev/tethashv1-geth/rlp"
+	"github.com/tao-foundation/tethashv1-geth/core"
+	"github.com/tao-foundation/tethashv1-geth/rlp"
 )
 
 type allocItem struct{ Addr, Balance *big.Int }

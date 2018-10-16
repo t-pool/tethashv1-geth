@@ -22,13 +22,13 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/accounts"
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/common/hexutil"
-	"github.com/trustfarm-dev/tethashv1-geth/core/types"
-	"github.com/trustfarm-dev/tethashv1-geth/internal/ethapi"
-	"github.com/trustfarm-dev/tethashv1-geth/signer/core"
-	"github.com/trustfarm-dev/tethashv1-geth/signer/storage"
+	"github.com/tao-foundation/tethashv1-geth/accounts"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/common/hexutil"
+	"github.com/tao-foundation/tethashv1-geth/core/types"
+	"github.com/tao-foundation/tethashv1-geth/internal/ethapi"
+	"github.com/tao-foundation/tethashv1-geth/signer/core"
+	"github.com/tao-foundation/tethashv1-geth/signer/storage"
 )
 
 const JS = `

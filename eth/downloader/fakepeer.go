@@ -19,11 +19,11 @@ package downloader
 import (
 	"math/big"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/core"
-	"github.com/trustfarm-dev/tethashv1-geth/core/rawdb"
-	"github.com/trustfarm-dev/tethashv1-geth/core/types"
-	"github.com/trustfarm-dev/tethashv1-geth/ethdb"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/core"
+	"github.com/tao-foundation/tethashv1-geth/core/rawdb"
+	"github.com/tao-foundation/tethashv1-geth/core/types"
+	"github.com/tao-foundation/tethashv1-geth/ethdb"
 )
 
 // FakePeer is a mock downloader peer that operates on a local database instance

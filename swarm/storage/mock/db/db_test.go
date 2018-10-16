@@ -23,7 +23,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage/mock/test"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage/mock/test"
 )
 
 // TestDBStore is running a test.MockStore tests

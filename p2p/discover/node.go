@@ -23,10 +23,10 @@ import (
 	"net"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common/math"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto/secp256k1"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/enode"
+	"github.com/tao-foundation/tethashv1-geth/common/math"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
+	"github.com/tao-foundation/tethashv1-geth/crypto/secp256k1"
+	"github.com/tao-foundation/tethashv1-geth/p2p/enode"
 )
 
 // node represents a host on the network.

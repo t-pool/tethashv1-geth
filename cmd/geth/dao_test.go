@@ -23,10 +23,10 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/core/rawdb"
-	"github.com/trustfarm-dev/tethashv1-geth/ethdb"
-	"github.com/trustfarm-dev/tethashv1-geth/params"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/core/rawdb"
+	"github.com/tao-foundation/tethashv1-geth/ethdb"
+	"github.com/tao-foundation/tethashv1-geth/params"
 )
 
 // Genesis block for nodes which don't care about the DAO fork (i.e. not configured)

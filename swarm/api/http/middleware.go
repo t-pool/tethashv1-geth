@@ -6,11 +6,11 @@ import (
 	"runtime/debug"
 	"strings"
 
-	"github.com/trustfarm-dev/tethashv1-geth/metrics"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/api"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/log"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/sctx"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/spancontext"
+	"github.com/tao-foundation/tethashv1-geth/metrics"
+	"github.com/tao-foundation/tethashv1-geth/swarm/api"
+	"github.com/tao-foundation/tethashv1-geth/swarm/log"
+	"github.com/tao-foundation/tethashv1-geth/swarm/sctx"
+	"github.com/tao-foundation/tethashv1-geth/swarm/spancontext"
 	"github.com/pborman/uuid"
 )
 

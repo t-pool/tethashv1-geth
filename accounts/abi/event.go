@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
 )
 
 // Event is an event potentially triggered by the EVM's LOG mechanism. The Event

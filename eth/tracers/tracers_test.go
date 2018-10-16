@@ -25,15 +25,15 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/common/hexutil"
-	"github.com/trustfarm-dev/tethashv1-geth/common/math"
-	"github.com/trustfarm-dev/tethashv1-geth/core"
-	"github.com/trustfarm-dev/tethashv1-geth/core/types"
-	"github.com/trustfarm-dev/tethashv1-geth/core/vm"
-	"github.com/trustfarm-dev/tethashv1-geth/ethdb"
-	"github.com/trustfarm-dev/tethashv1-geth/rlp"
-	"github.com/trustfarm-dev/tethashv1-geth/tests"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/common/hexutil"
+	"github.com/tao-foundation/tethashv1-geth/common/math"
+	"github.com/tao-foundation/tethashv1-geth/core"
+	"github.com/tao-foundation/tethashv1-geth/core/types"
+	"github.com/tao-foundation/tethashv1-geth/core/vm"
+	"github.com/tao-foundation/tethashv1-geth/ethdb"
+	"github.com/tao-foundation/tethashv1-geth/rlp"
+	"github.com/tao-foundation/tethashv1-geth/tests"
 )
 
 // To generate a new callTracer test, copy paste the makeTest method below into

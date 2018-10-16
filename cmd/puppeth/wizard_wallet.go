@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/log"
 )
 
 // deployWallet creates a new web wallet based on some user input.

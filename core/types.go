@@ -17,9 +17,9 @@
 package core
 
 import (
-	"github.com/trustfarm-dev/tethashv1-geth/core/state"
-	"github.com/trustfarm-dev/tethashv1-geth/core/types"
-	"github.com/trustfarm-dev/tethashv1-geth/core/vm"
+	"github.com/tao-foundation/tethashv1-geth/core/state"
+	"github.com/tao-foundation/tethashv1-geth/core/types"
+	"github.com/tao-foundation/tethashv1-geth/core/vm"
 )
 
 // Validator is an interface which defines the standard for block validation. It

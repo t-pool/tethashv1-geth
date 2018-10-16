@@ -19,7 +19,7 @@ package bloombits
 import (
 	"errors"
 
-	"github.com/trustfarm-dev/tethashv1-geth/core/types"
+	"github.com/tao-foundation/tethashv1-geth/core/types"
 )
 
 var (

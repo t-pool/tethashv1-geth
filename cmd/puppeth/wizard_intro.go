@@ -26,7 +26,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/trustfarm-dev/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/log"
 )
 
 // makeWizard creates and returns a new puppeth wizard.

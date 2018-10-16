@@ -25,8 +25,8 @@ import (
 	"math/big"
 	"reflect"
 
-	"github.com/trustfarm-dev/tethashv1-geth/accounts/abi"
-	"github.com/trustfarm-dev/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/accounts/abi"
+	"github.com/tao-foundation/tethashv1-geth/common"
 )
 
 func verify(t *testing.T, jsondata, calldata string, exp []interface{}) {

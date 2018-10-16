@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/log"
+	"github.com/tao-foundation/tethashv1-geth/swarm/log"
 )
 
 /*
@@ -29,8 +29,8 @@ see https://github.com/ethereum/go-ethereum/issues/2040
 Usage:
 
 import (
- "github.com/trustfarm-dev/tethashv1-geth/common/httpclient"
- "github.com/trustfarm-dev/tethashv1-geth/swarm/api/http"
+ "github.com/tao-foundation/tethashv1-geth/common/httpclient"
+ "github.com/tao-foundation/tethashv1-geth/swarm/api/http"
 )
 client := httpclient.New()
 // for (private) swarm proxy running locally

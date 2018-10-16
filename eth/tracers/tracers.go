@@ -21,7 +21,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/trustfarm-dev/tethashv1-geth/eth/tracers/internal/tracers"
+	"github.com/tao-foundation/tethashv1-geth/eth/tracers/internal/tracers"
 )
 
 // all contains all the built in JavaScript tracers by name.

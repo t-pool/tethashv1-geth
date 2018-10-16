@@ -23,10 +23,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/p2p"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/enode"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/simulations/adapters"
-	p2ptest "github.com/trustfarm-dev/tethashv1-geth/p2p/testing"
+	"github.com/tao-foundation/tethashv1-geth/p2p"
+	"github.com/tao-foundation/tethashv1-geth/p2p/enode"
+	"github.com/tao-foundation/tethashv1-geth/p2p/simulations/adapters"
+	p2ptest "github.com/tao-foundation/tethashv1-geth/p2p/testing"
 )
 
 // handshake message type

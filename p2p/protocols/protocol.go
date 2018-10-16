@@ -38,12 +38,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/log"
-	"github.com/trustfarm-dev/tethashv1-geth/metrics"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p"
-	"github.com/trustfarm-dev/tethashv1-geth/rlp"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/spancontext"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/tracing"
+	"github.com/tao-foundation/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/metrics"
+	"github.com/tao-foundation/tethashv1-geth/p2p"
+	"github.com/tao-foundation/tethashv1-geth/rlp"
+	"github.com/tao-foundation/tethashv1-geth/swarm/spancontext"
+	"github.com/tao-foundation/tethashv1-geth/swarm/tracing"
 	opentracing "github.com/opentracing/opentracing-go"
 )
 

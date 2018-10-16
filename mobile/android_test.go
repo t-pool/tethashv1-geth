@@ -25,7 +25,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/internal/build"
+	"github.com/tao-foundation/tethashv1-geth/internal/build"
 )
 
 // androidTestClass is a Java class to do some lightweight tests against the Android

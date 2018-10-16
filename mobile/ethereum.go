@@ -21,8 +21,8 @@ package geth
 import (
 	"errors"
 
-	ethereum "github.com/trustfarm-dev/tethashv1-geth"
-	"github.com/trustfarm-dev/tethashv1-geth/common"
+	ethereum "github.com/tao-foundation/tethashv1-geth"
+	"github.com/tao-foundation/tethashv1-geth/common"
 )
 
 // Subscription represents an event subscription where events are

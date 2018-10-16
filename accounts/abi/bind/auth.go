@@ -22,10 +22,10 @@ import (
 	"io"
 	"io/ioutil"
 
-	"github.com/trustfarm-dev/tethashv1-geth/accounts/keystore"
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/core/types"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
+	"github.com/tao-foundation/tethashv1-geth/accounts/keystore"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/core/types"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
 )
 
 // NewTransactor is a utility method to easily create a transaction signer from

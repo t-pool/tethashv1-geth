@@ -25,9 +25,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/cmd/utils"
-	"github.com/trustfarm-dev/tethashv1-geth/node"
-	"github.com/trustfarm-dev/tethashv1-geth/rpc"
+	"github.com/tao-foundation/tethashv1-geth/cmd/utils"
+	"github.com/tao-foundation/tethashv1-geth/node"
+	"github.com/tao-foundation/tethashv1-geth/rpc"
 	"github.com/gizak/termui"
 	"gopkg.in/urfave/cli.v1"
 )

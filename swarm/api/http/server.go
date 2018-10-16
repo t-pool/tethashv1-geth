@@ -35,12 +35,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/metrics"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/api"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/log"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage/feed"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/metrics"
+	"github.com/tao-foundation/tethashv1-geth/swarm/api"
+	"github.com/tao-foundation/tethashv1-geth/swarm/log"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage/feed"
 
 	"github.com/rs/cors"
 )

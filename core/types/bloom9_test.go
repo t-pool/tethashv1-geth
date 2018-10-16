@@ -54,7 +54,7 @@ func TestBloom(t *testing.T) {
 import (
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/core/state"
+	"github.com/tao-foundation/tethashv1-geth/core/state"
 )
 
 func TestBloom9(t *testing.T) {

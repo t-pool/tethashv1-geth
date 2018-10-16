@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
 )
 
 // Method represents a callable given a `Name` and whether the method is a constant.

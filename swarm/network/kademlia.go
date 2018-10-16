@@ -24,9 +24,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/log"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/pot"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/swarm/log"
+	"github.com/tao-foundation/tethashv1-geth/swarm/pot"
 )
 
 /*

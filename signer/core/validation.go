@@ -23,7 +23,7 @@ import (
 	"math/big"
 	"regexp"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/common"
 )
 
 // The validation package contains validation checks for transactions

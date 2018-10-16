@@ -7,12 +7,12 @@ import (
 	"math/big"
 	"strings"
 
-	ethereum "github.com/trustfarm-dev/tethashv1-geth"
-	"github.com/trustfarm-dev/tethashv1-geth/accounts/abi"
-	"github.com/trustfarm-dev/tethashv1-geth/accounts/abi/bind"
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/core/types"
-	"github.com/trustfarm-dev/tethashv1-geth/event"
+	ethereum "github.com/tao-foundation/tethashv1-geth"
+	"github.com/tao-foundation/tethashv1-geth/accounts/abi"
+	"github.com/tao-foundation/tethashv1-geth/accounts/abi/bind"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/core/types"
+	"github.com/tao-foundation/tethashv1-geth/event"
 )
 
 // PublicResolverABI is the input ABI used to generate the binding from.

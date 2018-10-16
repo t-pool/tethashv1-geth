@@ -21,9 +21,9 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/trustfarm-dev/tethashv1-geth"
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/core/types"
+	"github.com/tao-foundation/tethashv1-geth"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/core/types"
 )
 
 var (

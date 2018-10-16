@@ -22,7 +22,7 @@ import (
 	"html/template"
 	"path"
 
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/api"
+	"github.com/tao-foundation/tethashv1-geth/swarm/api"
 )
 
 type htmlListData struct {

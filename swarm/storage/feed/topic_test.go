@@ -3,7 +3,7 @@ package feed
 import (
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common/hexutil"
+	"github.com/tao-foundation/tethashv1-geth/common/hexutil"
 )
 
 func TestTopic(t *testing.T) {

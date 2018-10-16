@@ -21,8 +21,8 @@ package geth
 import (
 	"math/big"
 
-	"github.com/trustfarm-dev/tethashv1-geth/core/types"
-	"github.com/trustfarm-dev/tethashv1-geth/ethclient"
+	"github.com/tao-foundation/tethashv1-geth/core/types"
+	"github.com/tao-foundation/tethashv1-geth/ethclient"
 )
 
 // EthereumClient provides access to the Ethereum APIs.

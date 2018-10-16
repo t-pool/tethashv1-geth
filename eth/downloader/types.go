@@ -19,7 +19,7 @@ package downloader
 import (
 	"fmt"
 
-	"github.com/trustfarm-dev/tethashv1-geth/core/types"
+	"github.com/tao-foundation/tethashv1-geth/core/types"
 )
 
 // peerDropFn is a callback type for dropping a peer detected as malicious.

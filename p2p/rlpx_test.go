@@ -32,11 +32,11 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto/ecies"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto/sha3"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/simulations/pipes"
-	"github.com/trustfarm-dev/tethashv1-geth/rlp"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
+	"github.com/tao-foundation/tethashv1-geth/crypto/ecies"
+	"github.com/tao-foundation/tethashv1-geth/crypto/sha3"
+	"github.com/tao-foundation/tethashv1-geth/p2p/simulations/pipes"
+	"github.com/tao-foundation/tethashv1-geth/rlp"
 )
 
 func TestSharedSecret(t *testing.T) {

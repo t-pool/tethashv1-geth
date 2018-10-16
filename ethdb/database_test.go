@@ -27,7 +27,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/ethdb"
+	"github.com/tao-foundation/tethashv1-geth/ethdb"
 )
 
 func newTestLDB() (*ethdb.LDBDatabase, func()) {

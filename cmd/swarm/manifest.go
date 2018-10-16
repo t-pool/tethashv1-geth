@@ -22,9 +22,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/trustfarm-dev/tethashv1-geth/cmd/utils"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/api"
-	swarm "github.com/trustfarm-dev/tethashv1-geth/swarm/api/client"
+	"github.com/tao-foundation/tethashv1-geth/cmd/utils"
+	"github.com/tao-foundation/tethashv1-geth/swarm/api"
+	swarm "github.com/tao-foundation/tethashv1-geth/swarm/api/client"
 	"gopkg.in/urfave/cli.v1"
 )
 

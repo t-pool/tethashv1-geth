@@ -23,9 +23,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/accounts/usbwallet"
-	"github.com/trustfarm-dev/tethashv1-geth/log"
-	"github.com/trustfarm-dev/tethashv1-geth/rpc"
+	"github.com/tao-foundation/tethashv1-geth/accounts/usbwallet"
+	"github.com/tao-foundation/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/rpc"
 	"github.com/robertkrimen/otto"
 )
 

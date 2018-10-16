@@ -19,7 +19,7 @@ package mem
 import (
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage/mock/test"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage/mock/test"
 )
 
 // TestGlobalStore is running test for a GlobalStore

@@ -22,12 +22,12 @@ import (
 
 	"fmt"
 
-	"github.com/trustfarm-dev/tethashv1-geth/metrics"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/enode"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/log"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/network"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/spancontext"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage"
+	"github.com/tao-foundation/tethashv1-geth/metrics"
+	"github.com/tao-foundation/tethashv1-geth/p2p/enode"
+	"github.com/tao-foundation/tethashv1-geth/swarm/log"
+	"github.com/tao-foundation/tethashv1-geth/swarm/network"
+	"github.com/tao-foundation/tethashv1-geth/swarm/spancontext"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage"
 	opentracing "github.com/opentracing/opentracing-go"
 )
 

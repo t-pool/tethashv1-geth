@@ -21,9 +21,9 @@ import (
 	"context"
 	"sync"
 
-	"github.com/trustfarm-dev/tethashv1-geth/internal/ethapi"
-	"github.com/trustfarm-dev/tethashv1-geth/log"
-	"github.com/trustfarm-dev/tethashv1-geth/rpc"
+	"github.com/tao-foundation/tethashv1-geth/internal/ethapi"
+	"github.com/tao-foundation/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/rpc"
 )
 
 type StdIOUI struct {

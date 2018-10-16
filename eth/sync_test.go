@@ -21,9 +21,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/eth/downloader"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/enode"
+	"github.com/tao-foundation/tethashv1-geth/eth/downloader"
+	"github.com/tao-foundation/tethashv1-geth/p2p"
+	"github.com/tao-foundation/tethashv1-geth/p2p/enode"
 )
 
 // Tests that fast sync gets disabled as soon as a real block is successfully

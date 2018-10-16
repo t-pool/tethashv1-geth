@@ -30,9 +30,9 @@ import (
 
 	"bazil.org/fuse"
 	"bazil.org/fuse/fs"
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/api"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/log"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/swarm/api"
+	"github.com/tao-foundation/tethashv1-geth/swarm/log"
 )
 
 var (

@@ -19,8 +19,8 @@ package vm
 import (
 	"math/big"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/common/math"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/common/math"
 )
 
 // calculates the memory size required for a step

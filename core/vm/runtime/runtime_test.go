@@ -21,12 +21,12 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/accounts/abi"
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/core/state"
-	"github.com/trustfarm-dev/tethashv1-geth/core/vm"
-	"github.com/trustfarm-dev/tethashv1-geth/ethdb"
-	"github.com/trustfarm-dev/tethashv1-geth/params"
+	"github.com/tao-foundation/tethashv1-geth/accounts/abi"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/core/state"
+	"github.com/tao-foundation/tethashv1-geth/core/vm"
+	"github.com/tao-foundation/tethashv1-geth/ethdb"
+	"github.com/tao-foundation/tethashv1-geth/params"
 )
 
 func TestDefaults(t *testing.T) {

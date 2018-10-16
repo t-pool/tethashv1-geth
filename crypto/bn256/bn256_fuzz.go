@@ -10,8 +10,8 @@ import (
 	"bytes"
 	"math/big"
 
-	cloudflare "github.com/trustfarm-dev/tethashv1-geth/crypto/bn256/cloudflare"
-	google "github.com/trustfarm-dev/tethashv1-geth/crypto/bn256/google"
+	cloudflare "github.com/tao-foundation/tethashv1-geth/crypto/bn256/cloudflare"
+	google "github.com/tao-foundation/tethashv1-geth/crypto/bn256/google"
 )
 
 // FuzzAdd fuzzez bn256 addition between the Google and Cloudflare libraries.

@@ -20,9 +20,9 @@ import (
 	"context"
 	"sync"
 
-	ethereum "github.com/trustfarm-dev/tethashv1-geth"
-	"github.com/trustfarm-dev/tethashv1-geth/event"
-	"github.com/trustfarm-dev/tethashv1-geth/rpc"
+	ethereum "github.com/tao-foundation/tethashv1-geth"
+	"github.com/tao-foundation/tethashv1-geth/event"
+	"github.com/tao-foundation/tethashv1-geth/rpc"
 )
 
 // PublicDownloaderAPI provides an API which gives information about the current synchronisation status.

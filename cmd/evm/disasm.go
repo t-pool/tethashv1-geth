@@ -22,7 +22,7 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/trustfarm-dev/tethashv1-geth/core/asm"
+	"github.com/tao-foundation/tethashv1-geth/core/asm"
 	cli "gopkg.in/urfave/cli.v1"
 )
 

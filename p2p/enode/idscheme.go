@@ -21,11 +21,11 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common/math"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto/sha3"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/enr"
-	"github.com/trustfarm-dev/tethashv1-geth/rlp"
+	"github.com/tao-foundation/tethashv1-geth/common/math"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
+	"github.com/tao-foundation/tethashv1-geth/crypto/sha3"
+	"github.com/tao-foundation/tethashv1-geth/p2p/enr"
+	"github.com/tao-foundation/tethashv1-geth/rlp"
 )
 
 // List of known secure identity schemes.

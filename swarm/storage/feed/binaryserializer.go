@@ -16,7 +16,7 @@
 
 package feed
 
-import "github.com/trustfarm-dev/tethashv1-geth/common/hexutil"
+import "github.com/tao-foundation/tethashv1-geth/common/hexutil"
 
 type binarySerializer interface {
 	binaryPut(serializedData []byte) error

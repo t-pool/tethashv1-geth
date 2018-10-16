@@ -24,12 +24,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/p2p"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/discover"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/simulations"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/log"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/network/simulation"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage"
+	"github.com/tao-foundation/tethashv1-geth/p2p"
+	"github.com/tao-foundation/tethashv1-geth/p2p/discover"
+	"github.com/tao-foundation/tethashv1-geth/p2p/simulations"
+	"github.com/tao-foundation/tethashv1-geth/swarm/log"
+	"github.com/tao-foundation/tethashv1-geth/swarm/network/simulation"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage"
 )
 
 /*

@@ -19,7 +19,7 @@ package params
 import (
 	"math/big"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/common"
 )
 
 // DAOForkBlockExtra is the block header extra-data field to set for the DAO fork

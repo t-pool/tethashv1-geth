@@ -29,13 +29,13 @@ import (
 
 	cli "gopkg.in/urfave/cli.v1"
 
-	"github.com/trustfarm-dev/tethashv1-geth/cmd/utils"
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/log"
-	"github.com/trustfarm-dev/tethashv1-geth/node"
+	"github.com/tao-foundation/tethashv1-geth/cmd/utils"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/node"
 	"github.com/naoina/toml"
 
-	bzzapi "github.com/trustfarm-dev/tethashv1-geth/swarm/api"
+	bzzapi "github.com/tao-foundation/tethashv1-geth/swarm/api"
 )
 
 var (

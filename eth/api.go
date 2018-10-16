@@ -28,17 +28,17 @@ import (
 	"strings"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/common/hexutil"
-	"github.com/trustfarm-dev/tethashv1-geth/core"
-	"github.com/trustfarm-dev/tethashv1-geth/core/rawdb"
-	"github.com/trustfarm-dev/tethashv1-geth/core/state"
-	"github.com/trustfarm-dev/tethashv1-geth/core/types"
-	"github.com/trustfarm-dev/tethashv1-geth/internal/ethapi"
-	"github.com/trustfarm-dev/tethashv1-geth/params"
-	"github.com/trustfarm-dev/tethashv1-geth/rlp"
-	"github.com/trustfarm-dev/tethashv1-geth/rpc"
-	"github.com/trustfarm-dev/tethashv1-geth/trie"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/common/hexutil"
+	"github.com/tao-foundation/tethashv1-geth/core"
+	"github.com/tao-foundation/tethashv1-geth/core/rawdb"
+	"github.com/tao-foundation/tethashv1-geth/core/state"
+	"github.com/tao-foundation/tethashv1-geth/core/types"
+	"github.com/tao-foundation/tethashv1-geth/internal/ethapi"
+	"github.com/tao-foundation/tethashv1-geth/params"
+	"github.com/tao-foundation/tethashv1-geth/rlp"
+	"github.com/tao-foundation/tethashv1-geth/rpc"
+	"github.com/tao-foundation/tethashv1-geth/trie"
 )
 
 // PublicEthereumAPI provides an API to access Ethereum full node-related

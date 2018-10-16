@@ -24,8 +24,8 @@ import (
 	"net"
 	"sync"
 
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/enode"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/enr"
+	"github.com/tao-foundation/tethashv1-geth/p2p/enode"
+	"github.com/tao-foundation/tethashv1-geth/p2p/enr"
 )
 
 var nullNode *enode.Node

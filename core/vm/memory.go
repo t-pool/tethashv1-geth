@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common/math"
+	"github.com/tao-foundation/tethashv1-geth/common/math"
 )
 
 // Memory implements a simple memory model for the ethereum virtual machine.

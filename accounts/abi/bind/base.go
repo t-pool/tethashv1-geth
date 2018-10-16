@@ -22,12 +22,12 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/trustfarm-dev/tethashv1-geth"
-	"github.com/trustfarm-dev/tethashv1-geth/accounts/abi"
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/core/types"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
-	"github.com/trustfarm-dev/tethashv1-geth/event"
+	"github.com/tao-foundation/tethashv1-geth"
+	"github.com/tao-foundation/tethashv1-geth/accounts/abi"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/core/types"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
+	"github.com/tao-foundation/tethashv1-geth/event"
 )
 
 // SignerFn is a signer function callback when a contract requires a method to

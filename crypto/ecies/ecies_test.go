@@ -40,7 +40,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
 )
 
 var dumpEnc bool

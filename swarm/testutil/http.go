@@ -23,9 +23,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/api"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage/feed"
+	"github.com/tao-foundation/tethashv1-geth/swarm/api"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage/feed"
 )
 
 type TestServer interface {

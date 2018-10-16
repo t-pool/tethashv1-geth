@@ -19,7 +19,7 @@ package vm
 import (
 	"math/big"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common/math"
+	"github.com/tao-foundation/tethashv1-geth/common/math"
 )
 
 func memorySha3(stack *Stack) *big.Int {

@@ -22,8 +22,8 @@ import (
 	"strings"
 	"text/tabwriter"
 
-	"github.com/trustfarm-dev/tethashv1-geth/cmd/utils"
-	swarm "github.com/trustfarm-dev/tethashv1-geth/swarm/api/client"
+	"github.com/tao-foundation/tethashv1-geth/cmd/utils"
+	swarm "github.com/tao-foundation/tethashv1-geth/swarm/api/client"
 	"gopkg.in/urfave/cli.v1"
 )
 

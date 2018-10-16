@@ -23,10 +23,10 @@ import (
 	"io"
 	"sync"
 
-	"github.com/trustfarm-dev/tethashv1-geth/metrics"
-	ch "github.com/trustfarm-dev/tethashv1-geth/swarm/chunk"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/log"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/spancontext"
+	"github.com/tao-foundation/tethashv1-geth/metrics"
+	ch "github.com/tao-foundation/tethashv1-geth/swarm/chunk"
+	"github.com/tao-foundation/tethashv1-geth/swarm/log"
+	"github.com/tao-foundation/tethashv1-geth/swarm/spancontext"
 	opentracing "github.com/opentracing/opentracing-go"
 	olog "github.com/opentracing/opentracing-go/log"
 )

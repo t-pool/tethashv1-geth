@@ -20,9 +20,9 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/rlp"
-	"github.com/trustfarm-dev/tethashv1-geth/trie"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/rlp"
+	"github.com/tao-foundation/tethashv1-geth/trie"
 )
 
 // NodeIterator is an iterator to traverse the entire state trie post-order,

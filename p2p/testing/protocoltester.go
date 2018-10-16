@@ -32,14 +32,14 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/log"
-	"github.com/trustfarm-dev/tethashv1-geth/node"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/enode"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/simulations"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/simulations/adapters"
-	"github.com/trustfarm-dev/tethashv1-geth/rlp"
-	"github.com/trustfarm-dev/tethashv1-geth/rpc"
+	"github.com/tao-foundation/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/node"
+	"github.com/tao-foundation/tethashv1-geth/p2p"
+	"github.com/tao-foundation/tethashv1-geth/p2p/enode"
+	"github.com/tao-foundation/tethashv1-geth/p2p/simulations"
+	"github.com/tao-foundation/tethashv1-geth/p2p/simulations/adapters"
+	"github.com/tao-foundation/tethashv1-geth/rlp"
+	"github.com/tao-foundation/tethashv1-geth/rpc"
 )
 
 // ProtocolTester is the tester environment used for unit testing protocol

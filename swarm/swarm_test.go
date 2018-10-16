@@ -28,10 +28,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
-	"github.com/trustfarm-dev/tethashv1-geth/rpc"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/api"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
+	"github.com/tao-foundation/tethashv1-geth/rpc"
+	"github.com/tao-foundation/tethashv1-geth/swarm/api"
 )
 
 // TestNewSwarm validates Swarm fields in repsect to the provided configuration.

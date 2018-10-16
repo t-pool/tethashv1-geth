@@ -26,7 +26,7 @@ import (
 	"net"
 	"strings"
 
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/enr"
+	"github.com/tao-foundation/tethashv1-geth/p2p/enr"
 )
 
 // Node represents a host on the network.

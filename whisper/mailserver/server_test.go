@@ -25,9 +25,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
-	whisper "github.com/trustfarm-dev/tethashv1-geth/whisper/whisperv6"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
+	whisper "github.com/tao-foundation/tethashv1-geth/whisper/whisperv6"
 )
 
 const powRequirement = 0.00001

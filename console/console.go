@@ -28,9 +28,9 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/trustfarm-dev/tethashv1-geth/internal/jsre"
-	"github.com/trustfarm-dev/tethashv1-geth/internal/web3ext"
-	"github.com/trustfarm-dev/tethashv1-geth/rpc"
+	"github.com/tao-foundation/tethashv1-geth/internal/jsre"
+	"github.com/tao-foundation/tethashv1-geth/internal/web3ext"
+	"github.com/tao-foundation/tethashv1-geth/rpc"
 	"github.com/mattn/go-colorable"
 	"github.com/peterh/liner"
 	"github.com/robertkrimen/otto"

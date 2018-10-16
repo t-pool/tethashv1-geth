@@ -21,9 +21,9 @@ package geth
 import (
 	"encoding/json"
 
-	"github.com/trustfarm-dev/tethashv1-geth/core"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/discv5"
-	"github.com/trustfarm-dev/tethashv1-geth/params"
+	"github.com/tao-foundation/tethashv1-geth/core"
+	"github.com/tao-foundation/tethashv1-geth/p2p/discv5"
+	"github.com/tao-foundation/tethashv1-geth/params"
 )
 
 // MainnetGenesis returns the JSON spec to use for the main Ethereum network. It

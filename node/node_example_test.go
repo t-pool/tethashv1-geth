@@ -20,9 +20,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/trustfarm-dev/tethashv1-geth/node"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p"
-	"github.com/trustfarm-dev/tethashv1-geth/rpc"
+	"github.com/tao-foundation/tethashv1-geth/node"
+	"github.com/tao-foundation/tethashv1-geth/p2p"
+	"github.com/tao-foundation/tethashv1-geth/rpc"
 )
 
 // SampleService is a trivial network service that can be attached to a node for

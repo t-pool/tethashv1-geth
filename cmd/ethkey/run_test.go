@@ -22,7 +22,7 @@ import (
 	"testing"
 
 	"github.com/docker/docker/pkg/reexec"
-	"github.com/trustfarm-dev/tethashv1-geth/internal/cmdtest"
+	"github.com/tao-foundation/tethashv1-geth/internal/cmdtest"
 )
 
 type testEthkey struct {

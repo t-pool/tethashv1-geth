@@ -26,9 +26,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/rpc"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/api"
+	"github.com/tao-foundation/tethashv1-geth/rpc"
+	"github.com/tao-foundation/tethashv1-geth/swarm"
+	"github.com/tao-foundation/tethashv1-geth/swarm/api"
 
 	"github.com/docker/docker/pkg/reexec"
 )

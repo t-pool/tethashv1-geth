@@ -19,10 +19,10 @@ package shhclient
 import (
 	"context"
 
-	"github.com/trustfarm-dev/tethashv1-geth"
-	"github.com/trustfarm-dev/tethashv1-geth/common/hexutil"
-	"github.com/trustfarm-dev/tethashv1-geth/rpc"
-	whisper "github.com/trustfarm-dev/tethashv1-geth/whisper/whisperv6"
+	"github.com/tao-foundation/tethashv1-geth"
+	"github.com/tao-foundation/tethashv1-geth/common/hexutil"
+	"github.com/tao-foundation/tethashv1-geth/rpc"
+	whisper "github.com/tao-foundation/tethashv1-geth/whisper/whisperv6"
 )
 
 // Client defines typed wrappers for the Whisper v6 RPC API.

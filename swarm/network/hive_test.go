@@ -22,8 +22,8 @@ import (
 	"os"
 	"testing"
 
-	p2ptest "github.com/trustfarm-dev/tethashv1-geth/p2p/testing"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/state"
+	p2ptest "github.com/tao-foundation/tethashv1-geth/p2p/testing"
+	"github.com/tao-foundation/tethashv1-geth/swarm/state"
 )
 
 func newHiveTester(t *testing.T, params *HiveParams, n int, store state.Store) (*bzzTester, *Hive) {

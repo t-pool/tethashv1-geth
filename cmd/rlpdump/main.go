@@ -26,7 +26,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/trustfarm-dev/tethashv1-geth/rlp"
+	"github.com/tao-foundation/tethashv1-geth/rlp"
 )
 
 var (

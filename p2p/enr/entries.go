@@ -21,7 +21,7 @@ import (
 	"io"
 	"net"
 
-	"github.com/trustfarm-dev/tethashv1-geth/rlp"
+	"github.com/tao-foundation/tethashv1-geth/rlp"
 )
 
 // Entry is implemented by known node record entry types.

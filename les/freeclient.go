@@ -23,11 +23,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common/mclock"
-	"github.com/trustfarm-dev/tethashv1-geth/common/prque"
-	"github.com/trustfarm-dev/tethashv1-geth/ethdb"
-	"github.com/trustfarm-dev/tethashv1-geth/log"
-	"github.com/trustfarm-dev/tethashv1-geth/rlp"
+	"github.com/tao-foundation/tethashv1-geth/common/mclock"
+	"github.com/tao-foundation/tethashv1-geth/common/prque"
+	"github.com/tao-foundation/tethashv1-geth/ethdb"
+	"github.com/tao-foundation/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/rlp"
 )
 
 // freeClientPool implements a client database that limits the connection time

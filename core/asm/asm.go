@@ -21,7 +21,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/trustfarm-dev/tethashv1-geth/core/vm"
+	"github.com/tao-foundation/tethashv1-geth/core/vm"
 )
 
 // Iterator for disassembled EVM instructions

@@ -58,9 +58,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/internal/build"
-	"github.com/trustfarm-dev/tethashv1-geth/params"
-	sv "github.com/trustfarm-dev/tethashv1-geth/swarm/version"
+	"github.com/tao-foundation/tethashv1-geth/internal/build"
+	"github.com/tao-foundation/tethashv1-geth/params"
+	sv "github.com/tao-foundation/tethashv1-geth/swarm/version"
 )
 
 var (

@@ -16,7 +16,7 @@
 
 package bind
 
-import "github.com/trustfarm-dev/tethashv1-geth/accounts/abi"
+import "github.com/tao-foundation/tethashv1-geth/accounts/abi"
 
 // tmplData is the data structure required to fill the binding template.
 type tmplData struct {
@@ -68,12 +68,12 @@ import (
 	"math/big"
 	"strings"
 
-	ethereum "github.com/trustfarm-dev/tethashv1-geth"
-	"github.com/trustfarm-dev/tethashv1-geth/accounts/abi"
-	"github.com/trustfarm-dev/tethashv1-geth/accounts/abi/bind"
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/core/types"
-	"github.com/trustfarm-dev/tethashv1-geth/event"
+	ethereum "github.com/tao-foundation/tethashv1-geth"
+	"github.com/tao-foundation/tethashv1-geth/accounts/abi"
+	"github.com/tao-foundation/tethashv1-geth/accounts/abi/bind"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/core/types"
+	"github.com/tao-foundation/tethashv1-geth/event"
 )
 
 // Reference imports to suppress errors if they are not otherwise used.

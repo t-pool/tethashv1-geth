@@ -19,10 +19,10 @@ package les
 import (
 	"context"
 
-	"github.com/trustfarm-dev/tethashv1-geth/core"
-	"github.com/trustfarm-dev/tethashv1-geth/ethdb"
-	"github.com/trustfarm-dev/tethashv1-geth/light"
-	"github.com/trustfarm-dev/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/core"
+	"github.com/tao-foundation/tethashv1-geth/ethdb"
+	"github.com/tao-foundation/tethashv1-geth/light"
+	"github.com/tao-foundation/tethashv1-geth/log"
 )
 
 // LesOdr implements light.OdrBackend

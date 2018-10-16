@@ -22,7 +22,7 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/rpc"
+	"github.com/tao-foundation/tethashv1-geth/rpc"
 )
 
 // In this example, our client whishes to track the latest 'block number'

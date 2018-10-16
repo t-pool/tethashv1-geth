@@ -21,11 +21,11 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/metrics"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/log"
-	bv "github.com/trustfarm-dev/tethashv1-geth/swarm/network/bitvector"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/spancontext"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage"
+	"github.com/tao-foundation/tethashv1-geth/metrics"
+	"github.com/tao-foundation/tethashv1-geth/swarm/log"
+	bv "github.com/tao-foundation/tethashv1-geth/swarm/network/bitvector"
+	"github.com/tao-foundation/tethashv1-geth/swarm/spancontext"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage"
 	"github.com/opentracing/opentracing-go"
 )
 

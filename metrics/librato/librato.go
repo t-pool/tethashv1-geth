@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/metrics"
+	"github.com/tao-foundation/tethashv1-geth/metrics"
 )
 
 // a regexp for extracting the unit from time.Duration.String

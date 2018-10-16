@@ -26,8 +26,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common/mclock"
-	"github.com/trustfarm-dev/tethashv1-geth/light"
+	"github.com/tao-foundation/tethashv1-geth/common/mclock"
+	"github.com/tao-foundation/tethashv1-geth/light"
 )
 
 var (

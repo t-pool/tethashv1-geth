@@ -26,8 +26,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/internal/jsre/deps"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/internal/jsre/deps"
 	"github.com/robertkrimen/otto"
 )
 

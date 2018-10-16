@@ -22,7 +22,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/core/vm"
+	"github.com/tao-foundation/tethashv1-geth/core/vm"
 )
 
 func TestState(t *testing.T) {

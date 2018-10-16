@@ -26,10 +26,10 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/trustfarm-dev/tethashv1-geth/cmd/internal/browser"
-	"github.com/trustfarm-dev/tethashv1-geth/params"
+	"github.com/tao-foundation/tethashv1-geth/cmd/internal/browser"
+	"github.com/tao-foundation/tethashv1-geth/params"
 
-	"github.com/trustfarm-dev/tethashv1-geth/cmd/utils"
+	"github.com/tao-foundation/tethashv1-geth/cmd/utils"
 	cli "gopkg.in/urfave/cli.v1"
 )
 

@@ -21,7 +21,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/trustfarm-dev/tethashv1-geth/event"
+	"github.com/tao-foundation/tethashv1-geth/event"
 )
 
 // Manager is an overarching account manager that can communicate with various

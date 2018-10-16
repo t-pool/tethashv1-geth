@@ -24,13 +24,13 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/common/hexutil"
-	"github.com/trustfarm-dev/tethashv1-geth/consensus/ethash"
-	"github.com/trustfarm-dev/tethashv1-geth/core"
-	"github.com/trustfarm-dev/tethashv1-geth/eth/downloader"
-	"github.com/trustfarm-dev/tethashv1-geth/eth/gasprice"
-	"github.com/trustfarm-dev/tethashv1-geth/params"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/common/hexutil"
+	"github.com/tao-foundation/tethashv1-geth/consensus/ethash"
+	"github.com/tao-foundation/tethashv1-geth/core"
+	"github.com/tao-foundation/tethashv1-geth/eth/downloader"
+	"github.com/tao-foundation/tethashv1-geth/eth/gasprice"
+	"github.com/tao-foundation/tethashv1-geth/params"
 )
 
 // DefaultConfig contains default settings for use on the Ethereum main net.

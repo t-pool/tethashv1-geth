@@ -22,7 +22,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common/mclock"
+	"github.com/tao-foundation/tethashv1-geth/common/mclock"
 )
 
 const (

@@ -25,17 +25,17 @@ import (
 	"os"
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/api"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage/feed/lookup"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/testutil"
+	"github.com/tao-foundation/tethashv1-geth/swarm/api"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage/feed/lookup"
+	"github.com/tao-foundation/tethashv1-geth/swarm/testutil"
 
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage/feed"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage/feed"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common/hexutil"
-	"github.com/trustfarm-dev/tethashv1-geth/log"
-	swarm "github.com/trustfarm-dev/tethashv1-geth/swarm/api/client"
-	swarmhttp "github.com/trustfarm-dev/tethashv1-geth/swarm/api/http"
+	"github.com/tao-foundation/tethashv1-geth/common/hexutil"
+	"github.com/tao-foundation/tethashv1-geth/log"
+	swarm "github.com/tao-foundation/tethashv1-geth/swarm/api/client"
+	swarmhttp "github.com/tao-foundation/tethashv1-geth/swarm/api/http"
 )
 
 func TestCLIFeedUpdate(t *testing.T) {

@@ -24,8 +24,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/trustfarm-dev/tethashv1-geth/accounts/abi/bind"
-	"github.com/trustfarm-dev/tethashv1-geth/common/compiler"
+	"github.com/tao-foundation/tethashv1-geth/accounts/abi/bind"
+	"github.com/tao-foundation/tethashv1-geth/common/compiler"
 )
 
 var (

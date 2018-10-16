@@ -25,7 +25,7 @@ import (
 
 	"golang.org/x/net/html"
 
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/testutil"
+	"github.com/tao-foundation/tethashv1-geth/swarm/testutil"
 )
 
 func TestError(t *testing.T) {

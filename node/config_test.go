@@ -24,8 +24,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
+	"github.com/tao-foundation/tethashv1-geth/p2p"
 )
 
 // Tests that datadirs can be successfully created, be them manually configured

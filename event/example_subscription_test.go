@@ -19,7 +19,7 @@ package event_test
 import (
 	"fmt"
 
-	"github.com/trustfarm-dev/tethashv1-geth/event"
+	"github.com/tao-foundation/tethashv1-geth/event"
 )
 
 func ExampleNewSubscription() {

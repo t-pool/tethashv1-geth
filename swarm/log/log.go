@@ -1,8 +1,8 @@
 package log
 
 import (
-	l "github.com/trustfarm-dev/tethashv1-geth/log"
-	"github.com/trustfarm-dev/tethashv1-geth/metrics"
+	l "github.com/tao-foundation/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/metrics"
 )
 
 const (

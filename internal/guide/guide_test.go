@@ -30,8 +30,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/accounts/keystore"
-	"github.com/trustfarm-dev/tethashv1-geth/core/types"
+	"github.com/tao-foundation/tethashv1-geth/accounts/keystore"
+	"github.com/tao-foundation/tethashv1-geth/core/types"
 )
 
 // Tests that the account management snippets work correctly.

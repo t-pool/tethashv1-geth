@@ -22,8 +22,8 @@ package node
 import (
 	"reflect"
 
-	"github.com/trustfarm-dev/tethashv1-geth/p2p"
-	"github.com/trustfarm-dev/tethashv1-geth/rpc"
+	"github.com/tao-foundation/tethashv1-geth/p2p"
+	"github.com/tao-foundation/tethashv1-geth/rpc"
 )
 
 // NoopService is a trivial implementation of the Service interface.

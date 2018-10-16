@@ -29,7 +29,7 @@ import (
 	"text/template"
 	"unicode"
 
-	"github.com/trustfarm-dev/tethashv1-geth/accounts/abi"
+	"github.com/tao-foundation/tethashv1-geth/accounts/abi"
 )
 
 // Lang is a target programming language selector to generate bindings for.

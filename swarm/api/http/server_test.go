@@ -38,18 +38,18 @@ import (
 	"testing"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage/feed/lookup"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage/feed/lookup"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/core/types"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
-	"github.com/trustfarm-dev/tethashv1-geth/log"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/api"
-	swarm "github.com/trustfarm-dev/tethashv1-geth/swarm/api/client"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/multihash"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage/feed"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/testutil"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/core/types"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
+	"github.com/tao-foundation/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/swarm/api"
+	swarm "github.com/tao-foundation/tethashv1-geth/swarm/api/client"
+	"github.com/tao-foundation/tethashv1-geth/swarm/multihash"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage/feed"
+	"github.com/tao-foundation/tethashv1-geth/swarm/testutil"
 )
 
 func init() {

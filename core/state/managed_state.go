@@ -19,7 +19,7 @@ package state
 import (
 	"sync"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/common"
 )
 
 type account struct {

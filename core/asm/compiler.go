@@ -22,8 +22,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common/math"
-	"github.com/trustfarm-dev/tethashv1-geth/core/vm"
+	"github.com/tao-foundation/tethashv1-geth/common/math"
+	"github.com/tao-foundation/tethashv1-geth/core/vm"
 )
 
 // Compiler contains information about the parsed source

@@ -32,13 +32,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto/ecies"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto/sha3"
-	"github.com/trustfarm-dev/tethashv1-geth/log"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/api"
-	swarm "github.com/trustfarm-dev/tethashv1-geth/swarm/api/client"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/testutil"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
+	"github.com/tao-foundation/tethashv1-geth/crypto/ecies"
+	"github.com/tao-foundation/tethashv1-geth/crypto/sha3"
+	"github.com/tao-foundation/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/swarm/api"
+	swarm "github.com/tao-foundation/tethashv1-geth/swarm/api/client"
+	"github.com/tao-foundation/tethashv1-geth/swarm/testutil"
 )
 
 const (

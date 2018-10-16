@@ -20,7 +20,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/api"
+	"github.com/tao-foundation/tethashv1-geth/swarm/api"
 )
 
 const (

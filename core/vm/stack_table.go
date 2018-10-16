@@ -19,7 +19,7 @@ package vm
 import (
 	"fmt"
 
-	"github.com/trustfarm-dev/tethashv1-geth/params"
+	"github.com/tao-foundation/tethashv1-geth/params"
 )
 
 func makeStackFunc(pop, push int) stackValidationFunc {

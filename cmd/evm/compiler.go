@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"io/ioutil"
 
-	"github.com/trustfarm-dev/tethashv1-geth/cmd/evm/internal/compiler"
+	"github.com/tao-foundation/tethashv1-geth/cmd/evm/internal/compiler"
 
 	cli "gopkg.in/urfave/cli.v1"
 )

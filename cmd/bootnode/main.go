@@ -24,14 +24,14 @@ import (
 	"net"
 	"os"
 
-	"github.com/trustfarm-dev/tethashv1-geth/cmd/utils"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
-	"github.com/trustfarm-dev/tethashv1-geth/log"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/discover"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/discv5"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/enode"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/nat"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/netutil"
+	"github.com/tao-foundation/tethashv1-geth/cmd/utils"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
+	"github.com/tao-foundation/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/p2p/discover"
+	"github.com/tao-foundation/tethashv1-geth/p2p/discv5"
+	"github.com/tao-foundation/tethashv1-geth/p2p/enode"
+	"github.com/tao-foundation/tethashv1-geth/p2p/nat"
+	"github.com/tao-foundation/tethashv1-geth/p2p/netutil"
 )
 
 func main() {

@@ -42,7 +42,7 @@ import (
 	"fmt"
 	"hash"
 
-	ethcrypto "github.com/trustfarm-dev/tethashv1-geth/crypto"
+	ethcrypto "github.com/tao-foundation/tethashv1-geth/crypto"
 )
 
 var (

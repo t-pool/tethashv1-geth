@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/chunk"
+	"github.com/tao-foundation/tethashv1-geth/swarm/chunk"
 )
 
 // ProtocolVersion defines the current version of the protocol that will be included in each update message

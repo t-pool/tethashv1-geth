@@ -22,7 +22,7 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/common"
 )
 
 // Interface represents a wrapped version of Go's interface{}, with the capacity

@@ -21,12 +21,12 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/common/hexutil"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p"
-	"github.com/trustfarm-dev/tethashv1-geth/rlp"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage"
-	whisper "github.com/trustfarm-dev/tethashv1-geth/whisper/whisperv5"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/common/hexutil"
+	"github.com/tao-foundation/tethashv1-geth/p2p"
+	"github.com/tao-foundation/tethashv1-geth/rlp"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage"
+	whisper "github.com/tao-foundation/tethashv1-geth/whisper/whisperv5"
 )
 
 const (

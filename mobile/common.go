@@ -24,7 +24,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/common"
 )
 
 // Hash represents the 32 byte Keccak256 hash of arbitrary data.

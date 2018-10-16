@@ -28,7 +28,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/swarm"
+	"github.com/tao-foundation/tethashv1-geth/swarm"
 )
 
 // TestCLISwarmExportImport perform the following test:

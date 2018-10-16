@@ -22,12 +22,12 @@ import (
 	"os"
 	"strings"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/internal/ethapi"
-	"github.com/trustfarm-dev/tethashv1-geth/log"
-	"github.com/trustfarm-dev/tethashv1-geth/signer/core"
-	"github.com/trustfarm-dev/tethashv1-geth/signer/rules/deps"
-	"github.com/trustfarm-dev/tethashv1-geth/signer/storage"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/internal/ethapi"
+	"github.com/tao-foundation/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/signer/core"
+	"github.com/tao-foundation/tethashv1-geth/signer/rules/deps"
+	"github.com/tao-foundation/tethashv1-geth/signer/storage"
 	"github.com/robertkrimen/otto"
 )
 

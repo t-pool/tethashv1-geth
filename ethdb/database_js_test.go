@@ -19,7 +19,7 @@
 package ethdb_test
 
 import (
-	"github.com/trustfarm-dev/tethashv1-geth/ethdb"
+	"github.com/tao-foundation/tethashv1-geth/ethdb"
 )
 
 var _ ethdb.Database = &ethdb.LDBDatabase{}

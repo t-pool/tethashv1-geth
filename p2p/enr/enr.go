@@ -40,7 +40,7 @@ import (
 	"io"
 	"sort"
 
-	"github.com/trustfarm-dev/tethashv1-geth/rlp"
+	"github.com/tao-foundation/tethashv1-geth/rlp"
 )
 
 const SizeLimit = 300 // maximum encoded size of a node record in bytes

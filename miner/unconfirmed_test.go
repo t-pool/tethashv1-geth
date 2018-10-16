@@ -19,8 +19,8 @@ package miner
 import (
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/core/types"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/core/types"
 )
 
 // noopChainRetriever is an implementation of headerRetriever that always

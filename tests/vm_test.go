@@ -19,7 +19,7 @@ package tests
 import (
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/core/vm"
+	"github.com/tao-foundation/tethashv1-geth/core/vm"
 )
 
 func TestVM(t *testing.T) {

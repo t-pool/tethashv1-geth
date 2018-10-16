@@ -26,8 +26,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common/hexutil"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto/sha3"
+	"github.com/tao-foundation/tethashv1-geth/common/hexutil"
+	"github.com/tao-foundation/tethashv1-geth/crypto/sha3"
 )
 
 // Lengths of hashes and addresses in bytes.

@@ -28,11 +28,11 @@
 //  	"context"
 //  	"fmt"
 //  	"os"
-//  	pss "github.com/trustfarm-dev/tethashv1-geth/swarm/pss/client"
-//  	"github.com/trustfarm-dev/tethashv1-geth/p2p/protocols"
-//  	"github.com/trustfarm-dev/tethashv1-geth/p2p"
-//  	"github.com/trustfarm-dev/tethashv1-geth/swarm/pot"
-//  	"github.com/trustfarm-dev/tethashv1-geth/swarm/log"
+//  	pss "github.com/tao-foundation/tethashv1-geth/swarm/pss/client"
+//  	"github.com/tao-foundation/tethashv1-geth/p2p/protocols"
+//  	"github.com/tao-foundation/tethashv1-geth/p2p"
+//  	"github.com/tao-foundation/tethashv1-geth/swarm/pot"
+//  	"github.com/tao-foundation/tethashv1-geth/swarm/log"
 //  )
 //
 //  type FooMsg struct {

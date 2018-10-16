@@ -25,7 +25,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/crypto/sha3"
+	"github.com/tao-foundation/tethashv1-geth/crypto/sha3"
 )
 
 /*

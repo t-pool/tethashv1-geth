@@ -19,7 +19,7 @@ package simulation
 import (
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/enode"
+	"github.com/tao-foundation/tethashv1-geth/p2p/enode"
 )
 
 func TestConnectToPivotNode(t *testing.T) {

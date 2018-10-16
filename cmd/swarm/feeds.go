@@ -21,13 +21,13 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/common/hexutil"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/common/hexutil"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
 
-	"github.com/trustfarm-dev/tethashv1-geth/cmd/utils"
-	swarm "github.com/trustfarm-dev/tethashv1-geth/swarm/api/client"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage/feed"
+	"github.com/tao-foundation/tethashv1-geth/cmd/utils"
+	swarm "github.com/tao-foundation/tethashv1-geth/swarm/api/client"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage/feed"
 	"gopkg.in/urfave/cli.v1"
 )
 

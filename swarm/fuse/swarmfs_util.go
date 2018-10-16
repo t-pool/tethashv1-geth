@@ -24,7 +24,7 @@ import (
 	"os/exec"
 	"runtime"
 
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/log"
+	"github.com/tao-foundation/tethashv1-geth/swarm/log"
 )
 
 func externalUnmount(mountPoint string) error {

@@ -26,9 +26,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/log"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/enr"
-	"github.com/trustfarm-dev/tethashv1-geth/p2p/netutil"
+	"github.com/tao-foundation/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/p2p/enr"
+	"github.com/tao-foundation/tethashv1-geth/p2p/netutil"
 )
 
 const (

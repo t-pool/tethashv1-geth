@@ -25,15 +25,15 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage/feed/lookup"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage/feed/lookup"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/crypto"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/api"
-	swarmhttp "github.com/trustfarm-dev/tethashv1-geth/swarm/api/http"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/multihash"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage/feed"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/testutil"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/crypto"
+	"github.com/tao-foundation/tethashv1-geth/swarm/api"
+	swarmhttp "github.com/tao-foundation/tethashv1-geth/swarm/api/http"
+	"github.com/tao-foundation/tethashv1-geth/swarm/multihash"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage/feed"
+	"github.com/tao-foundation/tethashv1-geth/swarm/testutil"
 )
 
 func serverFunc(api *api.API) testutil.TestServer {

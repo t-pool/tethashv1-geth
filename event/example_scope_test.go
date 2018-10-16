@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/trustfarm-dev/tethashv1-geth/event"
+	"github.com/tao-foundation/tethashv1-geth/event"
 )
 
 // This example demonstrates how SubscriptionScope can be used to control the lifetime of

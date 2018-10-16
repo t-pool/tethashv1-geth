@@ -21,7 +21,7 @@ package geth
 import (
 	"errors"
 
-	"github.com/trustfarm-dev/tethashv1-geth/p2p"
+	"github.com/tao-foundation/tethashv1-geth/p2p"
 )
 
 // NodeInfo represents pi short summary of the information known about the host.

@@ -24,8 +24,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/crypto/sha3"
-	p2ptest "github.com/trustfarm-dev/tethashv1-geth/p2p/testing"
+	"github.com/tao-foundation/tethashv1-geth/crypto/sha3"
+	p2ptest "github.com/tao-foundation/tethashv1-geth/p2p/testing"
 )
 
 func TestStreamerSubscribe(t *testing.T) {

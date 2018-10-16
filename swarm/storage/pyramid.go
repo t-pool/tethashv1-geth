@@ -25,8 +25,8 @@ import (
 	"sync"
 	"time"
 
-	ch "github.com/trustfarm-dev/tethashv1-geth/swarm/chunk"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/log"
+	ch "github.com/tao-foundation/tethashv1-geth/swarm/chunk"
+	"github.com/tao-foundation/tethashv1-geth/swarm/log"
 )
 
 /*

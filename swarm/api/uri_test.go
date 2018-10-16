@@ -21,7 +21,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/storage"
+	"github.com/tao-foundation/tethashv1-geth/swarm/storage"
 )
 
 func TestParseURI(t *testing.T) {

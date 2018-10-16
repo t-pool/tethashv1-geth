@@ -20,9 +20,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/common/prque"
-	"github.com/trustfarm-dev/tethashv1-geth/ethdb"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/common/prque"
+	"github.com/tao-foundation/tethashv1-geth/ethdb"
 )
 
 // ErrNotRequested is returned by the trie sync when it's requested to process a

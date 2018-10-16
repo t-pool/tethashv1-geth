@@ -26,8 +26,8 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/log"
 )
 
 // nodeDockerfile is the Dockerfile required to run an Ethereum node.

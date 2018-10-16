@@ -24,9 +24,9 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/api"
-	swarm "github.com/trustfarm-dev/tethashv1-geth/swarm/api/client"
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/testutil"
+	"github.com/tao-foundation/tethashv1-geth/swarm/api"
+	swarm "github.com/tao-foundation/tethashv1-geth/swarm/api/client"
+	"github.com/tao-foundation/tethashv1-geth/swarm/testutil"
 )
 
 // TestManifestChange tests manifest add, update and remove

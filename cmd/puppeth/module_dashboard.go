@@ -26,7 +26,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/trustfarm-dev/tethashv1-geth/log"
+	"github.com/tao-foundation/tethashv1-geth/log"
 )
 
 // dashboardContent is the actual dashboard HTML content to serve up when users

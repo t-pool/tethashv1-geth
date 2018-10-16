@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/trustfarm-dev/tethashv1-geth/swarm/pot"
+	"github.com/tao-foundation/tethashv1-geth/swarm/pot"
 )
 
 // discovery bzz extension for requesting and relaying node address records

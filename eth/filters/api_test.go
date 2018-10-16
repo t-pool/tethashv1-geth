@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/trustfarm-dev/tethashv1-geth/common"
-	"github.com/trustfarm-dev/tethashv1-geth/rpc"
+	"github.com/tao-foundation/tethashv1-geth/common"
+	"github.com/tao-foundation/tethashv1-geth/rpc"
 )
 
 func TestUnmarshalJSONNewFilterArgs(t *testing.T) {

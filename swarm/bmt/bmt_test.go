@@ -28,7 +28,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/trustfarm-dev/tethashv1-geth/crypto/sha3"
+	"github.com/tao-foundation/tethashv1-geth/crypto/sha3"
 )
 
 // the actual data length generated (could be longer than max datalength of the BMT)
