@@ -273,7 +273,7 @@ func swap(buffer []byte) {
 ////////////////////////////////////////////////////////////////////////////////////////
 
 func fnv1a(a, b uint32) uint32 {
-	return ((0x811c9dc5^a)*0x01000193 ^ b) 
+	return ( ( ((0x811c9dc5^a)*0x01000193) ^ b)*0x01000193)
 }
 
 // fnv1aHash mixes in data into mix using the TethashV1 fnv1a method.
